@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import boto3
 import sagemaker
 import pandas as pd
@@ -13,10 +10,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 import joblib
 import subprocess
-
-
-# In[11]:
-
 
 # load dataset and choose features
 filename_dataset = '20221215_151443_pre.csv'
@@ -37,28 +30,16 @@ predictions = mlp.predict(x_test)
 with open('model.joblib', 'wb') as f:
     joblib.dump(mlp, f)
 
-
-# In[13]:
-
-
 # compress model
 command = "tar -cvpzf model.tar.gz model.joblib inference.py"
 process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
 output, error = process.communicate()
-
-
-# In[15]:
-
 
 # upload model to S3
 s3 = boto3.session.Session().resource('s3')
 session_sagemaker = sagemaker.Session()
 bucket = session_sagemaker.default_bucket() 
 response = s3.meta.client.upload_file('model.tar.gz', bucket, 'model.tar.gz')
-
-
-# In[28]:
-
 
 # get region name and configure the client
 region = boto3.Session().region_name
@@ -89,10 +70,6 @@ response = client.create_model(
     }]
 )
 
-
-# In[29]:
-
-
 # configure the end point
 configuration_name = "endpoint-configuration-prediction-model"
 
@@ -109,19 +86,8 @@ response = client.create_endpoint_config(
     ]
 )
 
-
-# In[3]:
-
-
 # create the end point
 response = client.create_endpoint(
     EndpointName="endpoint-accident-prediction",
     EndpointConfigName=configuration_name
 )
-
-
-# In[ ]:
-
-
-
-
