@@ -7,7 +7,7 @@ import time
 from termcolor import colored
 
 
-REPOSITORY = 'C:/Users/pdmar/OneDrive - Escuela Politécnica Nacional/phd/projects/epn/pis2002/dataset/'
+REPOSITORY = '.../dataset/'
 DRIVER = 'pablo'
 filename_dataset = REPOSITORY + DRIVER + '/20221215_151443/20221215_151443_pre.csv'
 df = pd.read_csv(filename_dataset)
