@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context="com.proyecto.pis_20_02.clases.principal.PrincipalActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/accion_usuario"
+        android:orderInCategory="100"
+        android:title="@string/informacion_usuario"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/accion_trafico"
+        android:orderInCategory="100"
+        android:title="@string/informacion_trafico"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/accion_correo"
+        android:orderInCategory="100"
+        android:title="@string/ayuda_comentarios"
+        app:showAsAction="never" />
+</menu>

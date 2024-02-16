@@ -1,0 +1,2 @@
+Signed Release ------> C:\...\Proyecto PIS-20-02\Evidencias\App_PIS_20_02\app\release\app-release.apk
+Signed Debug ------> C:\...\Proyecto PIS-20-02\Evidencias\App_PIS_20_02\app\debug\app-debug.apk

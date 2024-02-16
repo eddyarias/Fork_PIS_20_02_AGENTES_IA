@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Creación de los elementos visuales y sus parametros correspondientes -->
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".clases.principal.PrincipalActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/imagen_fondo"
+    android:id="@+id/contenedorPrincipal"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent" >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/barraPestanas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.PIS_20_02.AppBarOverlay">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/botonesPestanas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00FFFFFF"
+            tools:ignore="SpeakableTextPresentCheck"
+            app:tabSelectedTextColor="@color/color_negro"
+            app:tabTextColor="@color/color_purple_200"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/visorMultiPagina"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:ignore="SpeakableTextPresentCheck" >
+    </androidx.viewpager.widget.ViewPager>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonCorreoPrincipal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="20dp"
+        android:src="@android:drawable/ic_dialog_email"
+        app:backgroundTint="@android:color/transparent"
+        app:elevation="0dp"
+        android:visibility="invisible"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonMapasPrincipal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="280dp"
+        android:layout_marginBottom="20dp"
+        android:src="@android:drawable/ic_dialog_map"
+        app:backgroundTint="@android:color/transparent"
+        app:elevation="0dp"
+        android:visibility="invisible"
+        app:rippleColor="@android:color/transparent"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/botonInformacionUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="150dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/usuario"
+        app:backgroundTint="@android:color/transparent"
+        app:elevation="0dp"
+        android:visibility="invisible"
+        app:rippleColor="@android:color/transparent"
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck,ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/txtSingInNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:text="@string/valor_ejemplo"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_anchor="@+id/visorMultiPagina"
+        app:layout_anchorGravity="center_horizontal|top"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
