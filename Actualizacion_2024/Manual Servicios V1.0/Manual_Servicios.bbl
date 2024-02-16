@@ -1,0 +1,66 @@
+\begin{thebibliography}{}
+
+\bibitem[AWS, 2023a]{Gateway}
+AWS (2023a).
+\newblock Amazon api gateway.
+\newblock Disponible en: \url{https://aws.amazon.com/es/api-gateway/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2023b]{Cognito}
+AWS (2023b).
+\newblock Amazon cognito.
+\newblock Disponible en: \url{https://aws.amazon.com/es/cognito/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2023c]{DynamoDB}
+AWS (2023c).
+\newblock Amazon dynamodb.
+\newblock Disponible en: \url{https://aws.amazon.com/es/dynamodb/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2023d]{IAM}
+AWS (2023d).
+\newblock Aws identity and access management.
+\newblock Disponible en: \url{https://aws.amazon.com/es/iam/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2023e]{SageMaker}
+AWS (2023e).
+\newblock Qué es amazon sagemaker.
+\newblock Disponible en:
+  \url{https://docs.aws.amazon.com/es_es/sagemaker/latest/dg/whatis.html}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2023f]{Lambda}
+AWS (2023f).
+\newblock Qué es aws lambda.
+\newblock Disponible en:
+  \url{https://docs.aws.amazon.com/es_es/lambda/latest/dg/welcome.html}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 023s]{Amplify}
+AWS (2023s).
+\newblock Aws amplify hosting.
+\newblock Disponible en: \url{https://aws.amazon.com/es/amplify/hosting/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[JupyterLab, 2024]{Jupyter}
+JupyterLab (2024).
+\newblock Jupyterlab: A next-generation notebook interface.
+\newblock Disponible en: \url{https://jupyter.org/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[Marcillo et~al., 2022]{marcillo2022systematic}
+Marcillo, P., Valdivieso~Caraguay, {\'A}.~L., and Hern{\'a}ndez-{\'A}lvarez, M.
+  (2022).
+\newblock A systematic literature review of learning-based traffic accident
+  prediction models based on heterogeneous sources.
+\newblock {\em Applied Sciences}, 12(9):4529.
+
+\bibitem[Studio, 2024]{Android}
+Studio, A. (2024).
+\newblock Android studio.
+\newblock Disponible en: \url{https://developer.android.com/studio?hl=es-419}.
+\newblock Ultimo Acceso: \today.
+
+\end{thebibliography}

@@ -1,0 +1,1469 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.17)  16 FEB 2024 15:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Manual_Servicios.tex
+(Manual_Servicios.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.
+clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babe
+l.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtb
+abel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopt
+s.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanis
+h\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel/loca
+le/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyp
+erref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds
+\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kv
+setkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefineke
+ys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\
+pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hyco
+lor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\
+letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxh
+ook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nam
+eref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\ref
+count.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlest
+ring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kv
+options.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count196
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count197
+\Hy@pagecounter=\count198
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1
+enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\in
+tcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\e
+texcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count199
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pue
+nc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count266
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen143
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bit
+set.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc
+\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count267
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegsh
+i-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpd
+ftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\atverye
+nd-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfileche
+ck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecoun
+ter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputen
+c.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc
+.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subc
+aption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen146
+\captionmargin=\dimen147
+\caption@leftmargin=\dimen148
+\caption@rightmargin=\dimen149
+\caption@width=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count275
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count276
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.sty
+\lst@mode=\count277
+\lst@gtempboxa=\box51
+\lst@token=\toks20
+\lst@length=\count278
+\lst@currlwidth=\dimen156
+\lst@column=\count279
+\lst@pos=\count280
+\lst@lostspace=\dimen157
+\lst@width=\dimen158
+\lst@newlines=\count281
+\lst@lineno=\count282
+\lst@maxwidth=\dimen159
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count283
+\lst@skipnumbers=\count284
+\lst@framebox=\box52
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sect
+sty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
+hcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box53
+) (Manual_Servicios.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+\openout1 = `Manual_Servicios.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+Package hyperref Info: Link coloring OFF on input line 17.
+ (Manual_Servicios.out)
+(Manual_Servicios.out)
+\@outlinefile=\write3
+\openout3 = `Manual_Servicios.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen161
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count292
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+ [1
+
+{C:/Users/Christian Arroyo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Funcionalidad.png, id=103, 501.072pt x 329.43076pt>
+File: Funcionalidad.png Graphic file (type png)
+<use Funcionalidad.png>
+Package pdftex.def Info: Funcionalidad.png  used on input line 25.
+(pdftex.def)             Requested size: 344.99843pt x 295.92697pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--31
+
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 	
+       [1 <./Funcionalidad.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+<Esquema.png, id=113, 727.518pt x 386.6445pt>
+File: Esquema.png Graphic file (type png)
+<use Esquema.png>
+Package pdftex.def Info: Esquema.png  used on input line 46.
+(pdftex.def)             Requested size: 344.99739pt x 281.69356pt.
+[2]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+2.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.
+fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 52.
+
+Overfull \hbox (15.918pt too wide) in paragraph at lines 52--53
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+[3 <./Esquema.png>]
+<Infraestructura.png, id=131, 766.66425pt x 383.031pt>
+File: Infraestructura.png Graphic file (type png)
+<use Infraestructura.png>
+Package pdftex.def Info: Infraestructura.png  used on input line 64.
+(pdftex.def)             Requested size: 344.99573pt x 278.85635pt.
+<Funcionamiento_IAM.png, id=134, 794.97pt x 284.86424pt>
+File: Funcionamiento_IAM.png Graphic file (type png)
+<use Funcionamiento_IAM.png>
+Package pdftex.def Info: Funcionamiento_IAM.png  used on input line 72.
+(pdftex.def)             Requested size: 345.00856pt x 241.84886pt.
+<Servicio_IAM.png, id=136, 810.6285pt x 360.74776pt>
+File: Servicio_IAM.png Graphic file (type png)
+<use Servicio_IAM.png>
+Package pdftex.def Info: Servicio_IAM.png  used on input line 79.
+(pdftex.def)             Requested size: 344.98877pt x 241.85385pt.
+<Usuarios_IAM.png, id=139, 800.39024pt x 484.209pt>
+File: Usuarios_IAM.png Graphic file (type png)
+<use Usuarios_IAM.png>
+Package pdftex.def Info: Usuarios_IAM.png  used on input line 86.
+(pdftex.def)             Requested size: 345.00378pt x 233.31168pt.
+<Crear_Usuario_IAM.png, id=140, 1147.8885pt x 548.0475pt>
+File: Crear_Usuario_IAM.png Graphic file (type png)
+<use Crear_Usuario_IAM.png>
+Package pdftex.def Info: Crear_Usuario_IAM.png  used on input line 92.
+(pdftex.def)             Requested size: 344.99976pt x 233.31432pt.
+<Nombre_Usuario.png, id=143, 1156.32pt x 439.6425pt>
+File: Nombre_Usuario.png Graphic file (type png)
+<use Nombre_Usuario.png>
+Package pdftex.def Info: Nombre_Usuario.png  used on input line 99.
+(pdftex.def)             Requested size: 344.99312pt x 216.23842pt.
+<Permisos_Usuario_IAM.png, id=144, 827.4915pt x 433.62pt>
+File: Permisos_Usuario_IAM.png Graphic file (type png)
+<use Permisos_Usuario_IAM.png>
+Package pdftex.def Info: Permisos_Usuario_IAM.png  used on input line 105.
+(pdftex.def)             Requested size: 345.00613pt x 216.24045pt.
+<Resumen_Permisos_IAM.png, id=146, 823.27576pt x 459.51675pt>
+File: Resumen_Permisos_IAM.png Graphic file (type png)
+<use Resumen_Permisos_IAM.png>
+Package pdftex.def Info: Resumen_Permisos_IAM.png  used on input line 112.
+(pdftex.def)             Requested size: 345.00717pt x 221.9258pt.
+<Usuario_IAM_Creado.png, id=148, 1156.32pt x 257.16075pt>
+File: Usuario_IAM_Creado.png Graphic file (type png)
+<use Usuario_IAM_Creado.png>
+Package pdftex.def Info: Usuario_IAM_Creado.png  used on input line 119.
+(pdftex.def)             Requested size: 344.99312pt x 221.93478pt.
+<Detalle_Usuario_IAM.png, id=151, 1156.32pt x 420.97275pt>
+File: Detalle_Usuario_IAM.png Graphic file (type png)
+<use Detalle_Usuario_IAM.png>
+Package pdftex.def Info: Detalle_Usuario_IAM.png  used on input line 126.
+(pdftex.def)             Requested size: 344.99312pt x 221.93256pt.
+<Clave_Acceso_IAM.png, id=152, 852.786pt x 183.68625pt>
+File: Clave_Acceso_IAM.png Graphic file (type png)
+<use Clave_Acceso_IAM.png>
+Package pdftex.def Info: Clave_Acceso_IAM.png  used on input line 132.
+(pdftex.def)             Requested size: 344.99908pt x 221.9471pt.
+<CLI_IAM.png, id=154, 725.71124pt x 467.94826pt>
+File: CLI_IAM.png Graphic file (type png)
+<use CLI_IAM.png>
+Package pdftex.def Info: CLI_IAM.png  used on input line 139.
+(pdftex.def)             Requested size: 345.00433pt x 210.55334pt.
+<Access_Secret_Key_IAM.png, id=156, 653.44125pt x 383.63326pt>
+File: Access_Secret_Key_IAM.png Graphic file (type png)
+<use Access_Secret_Key_IAM.png>
+Package pdftex.def Info: Access_Secret_Key_IAM.png  used on input line 146.
+(pdftex.def)             Requested size: 344.99611pt x 210.55405pt.
+<Detalle_Clave_IAM.png, id=158, 851.5815pt x 309.5565pt>
+File: Detalle_Clave_IAM.png Graphic file (type png)
+<use Detalle_Clave_IAM.png>
+Package pdftex.def Info: Detalle_Clave_IAM.png  used on input line 153.
+(pdftex.def)             Requested size: 345.00557pt x 184.94652pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./Infraestructura.png>] [5 <./Funcionamiento_IAM.png> <./Servicio_IAM.png>]
+[6 <./Usuarios_IAM.png> <./Crear_Usuario_IAM.png>] [7 <./Nombre_Usuario.png> <.
+/Permisos_Usuario_IAM.png>] [8 <./Resumen_Permisos_IAM.png> <./Usuario_IAM_Crea
+do.png>] [9 <./Detalle_Usuario_IAM.png> <./Clave_Acceso_IAM.png>] [10 <./CLI_IA
+M.png> <./Access_Secret_Key_IAM.png>]
+<Funcionamiento_SageMaker.png, id=216, 785.93625pt x 326.4195pt>
+File: Funcionamiento_SageMaker.png Graphic file (type png)
+<use Funcionamiento_SageMaker.png>
+Package pdftex.def Info: Funcionamiento_SageMaker.png  used on input line 161.
+(pdftex.def)             Requested size: 345.00952pt x 187.79434pt.
+<Nueva_Politica_SageMaker.png, id=219, 882.8985pt x 457.10776pt>
+File: Nueva_Politica_SageMaker.png Graphic file (type png)
+<use Nueva_Politica_SageMaker.png>
+Package pdftex.def Info: Nueva_Politica_SageMaker.png  used on input line 168.
+(pdftex.def)             Requested size: 345.00262pt x 204.85959pt.
+<Dataset_Sagemaker.png, id=222, 1020.81375pt x 341.47575pt>
+File: Dataset_Sagemaker.png Graphic file (type png)
+<use Dataset_Sagemaker.png>
+Package pdftex.def Info: Dataset_Sagemaker.png  used on input line 175.
+(pdftex.def)             Requested size: 345.00043pt x 204.86098pt.
+
+
+LaTeX Warning: Reference `Servicio_SageMaker' on page 11 undefined on input lin
+e 179.
+
+<Nootebook_SageMaker.png, id=224, 1137.65025pt x 523.35526pt>
+File: Nootebook_SageMaker.png Graphic file (type png)
+<use Nootebook_SageMaker.png>
+Package pdftex.def Info: Nootebook_SageMaker.png  used on input line 182.
+(pdftex.def)             Requested size: 344.9952pt x 190.63576pt.
+<Instancias_SageMaker.png, id=226, 1152.10425pt x 280.04625pt>
+File: Instancias_SageMaker.png Graphic file (type png)
+<use Instancias_SageMaker.png>
+Package pdftex.def Info: Instancias_SageMaker.png  used on input line 189.
+(pdftex.def)             Requested size: 345.00107pt x 190.64258pt.
+[11 <./Detalle_Clave_IAM.png> <./Funcionamiento_SageMaker.png>] [12 <./Nueva_Po
+litica_SageMaker.png> <./Dataset_Sagemaker.png>] [13 <./Nootebook_SageMaker.png
+> <./Instancias_SageMaker.png>]
+<Configuracion_Instancia_SageMaker.png, id=255, 552.26324pt x 364.9635pt>
+File: Configuracion_Instancia_SageMaker.png Graphic file (type png)
+<use Configuracion_Instancia_SageMaker.png>
+Package pdftex.def Info: Configuracion_Instancia_SageMaker.png  used on input l
+ine 203.
+(pdftex.def)             Requested size: 345.00356pt x 182.09705pt.
+
+
+LaTeX Warning: Reference `Permisos_Cifrado_SageMaker' on page 14 undefined on i
+nput line 207.
+
+<Crear_Función_IAM.png, id=257, 555.2745pt x 381.22424pt>
+File: Crear_Función_IAM.png Graphic file (type png)
+<use Crear_Función_IAM.png>
+Package pdftex.def Info: Crear_Función_IAM.png  used on input line 210.
+(pdftex.def)             Requested size: 345.01224pt x 182.09555pt.
+<SageMaker_ExecutionRole.png, id=259, 547.44525pt x 325.81725pt>
+File: SageMaker_ExecutionRole.png Graphic file (type png)
+<use SageMaker_ExecutionRole.png>
+Package pdftex.def Info: SageMaker_ExecutionRole.png  used on input line 217.
+(pdftex.def)             Requested size: 345.00092pt x 216.24315pt.
+<Instancia_Creada_SageMaker.png, id=262, 1153.30875pt x 242.1045pt>
+File: Instancia_Creada_SageMaker.png Graphic file (type png)
+<use Instancia_Creada_SageMaker.png>
+Package pdftex.def Info: Instancia_Creada_SageMaker.png  used on input line 224
+.
+(pdftex.def)             Requested size: 344.9922pt x 216.24811pt.
+<Instancia_Creada_SageMaker_Online.png, id=263, 1156.32pt x 201.75375pt>
+File: Instancia_Creada_SageMaker_Online.png Graphic file (type png)
+<use Instancia_Creada_SageMaker_Online.png>
+Package pdftex.def Info: Instancia_Creada_SageMaker_Online.png  used on input l
+ine 230.
+(pdftex.def)             Requested size: 344.99312pt x 190.63367pt.
+<SageMaker_Jupyter.png, id=265, 1156.32pt x 201.75375pt>
+File: SageMaker_Jupyter.png Graphic file (type png)
+<use SageMaker_Jupyter.png>
+Package pdftex.def Info: SageMaker_Jupyter.png  used on input line 238.
+(pdftex.def)             Requested size: 344.99312pt x 190.63367pt.
+<Jupyter_DataSet.png, id=269, 880.4895pt x 152.9715pt>
+File: Jupyter_DataSet.png Graphic file (type png)
+<use Jupyter_DataSet.png>
+Package pdftex.def Info: Jupyter_DataSet.png  used on input line 246.
+(pdftex.def)             Requested size: 345.00175pt x 190.635pt.
+<Jupyter_DataSet_Cargado.png, id=270, 864.22874pt x 149.96025pt>
+File: Jupyter_DataSet_Cargado.png Graphic file (type png)
+<use Jupyter_DataSet_Cargado.png>
+Package pdftex.def Info: Jupyter_DataSet_Cargado.png  used on input line 252.
+(pdftex.def)             Requested size: 344.99963pt x 190.64188pt.
+<Jupyter_Python.png, id=273, 873.2625pt x 343.88475pt>
+File: Jupyter_Python.png Graphic file (type png)
+<use Jupyter_Python.png>
+Package pdftex.def Info: Jupyter_Python.png  used on input line 259.
+(pdftex.def)             Requested size: 344.99486pt x 182.10063pt.
+<Jupyter_Nombre.png, id=274, 874.467pt x 189.70876pt>
+File: Jupyter_Nombre.png Graphic file (type png)
+<use Jupyter_Nombre.png>
+Package pdftex.def Info: Jupyter_Nombre.png  used on input line 265.
+(pdftex.def)             Requested size: 345.00371pt x 96.74149pt.
+<Jupyter_Nuevo_Py.png, id=276, 865.43324pt x 343.2825pt>
+File: Jupyter_Nuevo_Py.png Graphic file (type png)
+<use Jupyter_Nuevo_Py.png>
+Package pdftex.def Info: Jupyter_Nuevo_Py.png  used on input line 272.
+(pdftex.def)             Requested size: 345.00508pt x 159.33138pt.
+<Inference_Codigo.png, id=279, 470.9595pt x 373.395pt>
+File: Inference_Codigo.png Graphic file (type png)
+<use Inference_Codigo.png>
+Package pdftex.def Info: Inference_Codigo.png  used on input line 279.
+(pdftex.def)             Requested size: 345.01205pt x 182.09912pt.
+<Modelo_Codigo.png, id=281, 718.48425pt x 469.755pt>
+File: Modelo_Codigo.png Graphic file (type png)
+<use Modelo_Codigo.png>
+Package pdftex.def Info: Modelo_Codigo.png  used on input line 286.
+(pdftex.def)             Requested size: 345.00008pt x 250.38104pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--291
+
+ []
+
+[14 <./Configuracion_Instancia_SageMaker.png> <./Crear_Función_IAM.png>]
+[15 <./SageMaker_ExecutionRole.png> <./Instancia_Creada_SageMaker.png>]
+[16 <./Instancia_Creada_SageMaker_Online.png> <./SageMaker_Jupyter.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./Jupyter_DataSet.png> <./Jupyter_DataSet_Cargado.png>] [18 <./Jupyter_Pyt
+hon.png> <./Jupyter_Nombre.png> <./Jupyter_Nuevo_Py.png>] [19 <./Inference_Codi
+go.png> <./Modelo_Codigo.png>]
+<Jupyter_Archivos.png, id=337, 778.70924pt x 219.82124pt>
+File: Jupyter_Archivos.png Graphic file (type png)
+<use Jupyter_Archivos.png>
+Package pdftex.def Info: Jupyter_Archivos.png  used on input line 300.
+(pdftex.def)             Requested size: 344.99767pt x 190.63916pt.
+<S3_SageMaker_Bucket.png, id=338, 853.38824pt x 345.6915pt>
+File: S3_SageMaker_Bucket.png Graphic file (type png)
+<use S3_SageMaker_Bucket.png>
+Package pdftex.def Info: S3_SageMaker_Bucket.png  used on input line 306.
+(pdftex.def)             Requested size: 344.9953pt x 190.632pt.
+<SageMaker_Inferencia.png, id=339, 905.18175pt x 364.9635pt>
+File: SageMaker_Inferencia.png Graphic file (type png)
+<use SageMaker_Inferencia.png>
+Package pdftex.def Info: SageMaker_Inferencia.png  used on input line 312.
+(pdftex.def)             Requested size: 345.00853pt x 162.1827pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<SageMaker_Punto_Conexion.png, id=340, 903.375pt x 215.00325pt>
+File: SageMaker_Punto_Conexion.png Graphic file (type png)
+<use SageMaker_Punto_Conexion.png>
+Package pdftex.def Info: SageMaker_Punto_Conexion.png  used on input line 318.
+(pdftex.def)             Requested size: 345.00911pt x 162.18047pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<SageMaker_EndPoint.png, id=341, 928.06725pt x 155.98276pt>
+File: SageMaker_EndPoint.png Graphic file (type png)
+<use SageMaker_EndPoint.png>
+Package pdftex.def Info: SageMaker_EndPoint.png  used on input line 324.
+(pdftex.def)             Requested size: 344.99388pt x 162.19444pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20 <./Jupyter_Archivos.png> <./S3_SageMaker_Bucket.png>]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+
+Overfull \vbox (0.5576pt too high) has occurred while \output is active []
+
+
+[21 <./SageMaker_Inferencia.png> <./SageMaker_Punto_Conexion.png> <./SageMaker_
+EndPoint.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 330--331
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<Funcionamiento_Lambda.png, id=363, 724.50674pt x 217.41225pt>
+File: Funcionamiento_Lambda.png Graphic file (type png)
+<use Funcionamiento_Lambda.png>
+Package pdftex.def Info: Funcionamiento_Lambda.png  used on input line 336.
+(pdftex.def)             Requested size: 344.99551pt x 165.02933pt.
+<Servicio_Lambda.png, id=365, 711.8595pt x 331.83975pt>
+File: Servicio_Lambda.png Graphic file (type png)
+<use Servicio_Lambda.png>
+Package pdftex.def Info: Servicio_Lambda.png  used on input line 343.
+(pdftex.def)             Requested size: 345.00162pt x 165.02829pt.
+<Crear_Lambda.png, id=367, 882.29625pt x 145.7445pt>
+File: Crear_Lambda.png Graphic file (type png)
+<use Crear_Lambda.png>
+Package pdftex.def Info: Crear_Lambda.png  used on input line 350.
+(pdftex.def)             Requested size: 344.99615pt x 71.13077pt.
+<Configuracion_Lambda.png, id=369, 1050.324pt x 1202.69325pt>
+File: Configuracion_Lambda.png Graphic file (type png)
+<use Configuracion_Lambda.png>
+Package pdftex.def Info: Configuracion_Lambda.png  used on input line 357.
+(pdftex.def)             Requested size: 344.9893pt x 349.96497pt.
+<Modelo_Agente_Lambda.png, id=371, 1046.7105pt x 358.33875pt>
+File: Modelo_Agente_Lambda.png Graphic file (type png)
+<use Modelo_Agente_Lambda.png>
+Package pdftex.def Info: Modelo_Agente_Lambda.png  used on input line 364.
+(pdftex.def)             Requested size: 345.00027pt x 170.71571pt.
+<Nombre_Rol_Lambda.png, id=373, 1043.69925pt x 186.6975pt>
+File: Nombre_Rol_Lambda.png Graphic file (type png)
+<use Nombre_Rol_Lambda.png>
+Package pdftex.def Info: Nombre_Rol_Lambda.png  used on input line 371.
+(pdftex.def)             Requested size: 344.99513pt x 184.95073pt.
+<Politica_Insertada.png, id=375, 881.694pt x 446.8695pt>
+File: Politica_Insertada.png Graphic file (type png)
+<use Politica_Insertada.png>
+Package pdftex.def Info: Politica_Insertada.png  used on input line 378.
+(pdftex.def)             Requested size: 344.98938pt x 184.9428pt.
+<Politica_JSON.png, id=379, 897.3525pt x 223.43475pt>
+File: Politica_JSON.png Graphic file (type png)
+<use Politica_JSON.png>
+Package pdftex.def Info: Politica_JSON.png  used on input line 385.
+(pdftex.def)             Requested size: 344.9957pt x 287.40697pt.
+<Agregar_JSON.png, id=380, 852.18375pt x 438.438pt>
+File: Agregar_JSON.png Graphic file (type png)
+<use Agregar_JSON.png>
+Package pdftex.def Info: Agregar_JSON.png  used on input line 391.
+(pdftex.def)             Requested size: 345.00249pt x 170.71584pt.
+<Fin_Politica_Lambda.png, id=381, 872.058pt x 333.04425pt>
+File: Fin_Politica_Lambda.png Graphic file (type png)
+<use Fin_Politica_Lambda.png>
+Package pdftex.def Info: Fin_Politica_Lambda.png  used on input line 397.
+(pdftex.def)             Requested size: 344.99805pt x 116.65361pt.
+<Resumen_Politica_Lambda.png, id=383, 881.694pt x 249.3315pt>
+File: Resumen_Politica_Lambda.png Graphic file (type png)
+<use Resumen_Politica_Lambda.png>
+Package pdftex.def Info: Resumen_Politica_Lambda.png  used on input line 404.
+(pdftex.def)             Requested size: 344.98938pt x 116.65698pt.
+<Codigo_Fuente_Lambda.png, id=385, 684.75826pt x 293.898pt>
+File: Codigo_Fuente_Lambda.png Graphic file (type png)
+<use Codigo_Fuente_Lambda.png>
+Package pdftex.def Info: Codigo_Fuente_Lambda.png  used on input line 411.
+(pdftex.def)             Requested size: 345.00087pt x 122.34657pt.
+<Variables_Entorno.png, id=387, 1044.3015pt x 219.219pt>
+File: Variables_Entorno.png Graphic file (type png)
+<use Variables_Entorno.png>
+Package pdftex.def Info: Variables_Entorno.png  used on input line 418.
+(pdftex.def)             Requested size: 345.00299pt x 122.35036pt.
+<Variable_EndPoint.png, id=390, 554.07pt x 448.074pt>
+File: Variable_EndPoint.png Graphic file (type png)
+<use Variable_EndPoint.png>
+Package pdftex.def Info: Variable_EndPoint.png  used on input line 425.
+(pdftex.def)             Requested size: 344.99937pt x 122.34216pt.
+<EndPoint_Creado.png, id=392, 1046.7105pt x 224.63925pt>
+File: EndPoint_Creado.png Graphic file (type png)
+<use EndPoint_Creado.png>
+Package pdftex.def Info: EndPoint_Creado.png  used on input line 432.
+(pdftex.def)             Requested size: 345.00027pt x 142.2707pt.
+<Deploy_Lambda.png, id=394, 684.75826pt x 293.898pt>
+File: Deploy_Lambda.png Graphic file (type png)
+<use Deploy_Lambda.png>
+Package pdftex.def Info: Deploy_Lambda.png  used on input line 439.
+(pdftex.def)             Requested size: 345.00087pt x 142.26678pt.
+[22 <./Funcionamiento_Lambda.png> <./Servicio_Lambda.png>] [23 <./Crear_Lambda.
+png> <./Configuracion_Lambda.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24 <./Modelo_Agente_Lambda.png> <./Nombre_Rol_Lambda.png>] [25 <./Politica_Ins
+ertada.png> <./Politica_JSON.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26 <./Agregar_JSON.png> <./Fin_Politica_Lambda.png> <./Resumen_Politica_Lambda
+.png>] [27 <./Codigo_Fuente_Lambda.png> <./Variables_Entorno.png> <./Variable_E
+ndPoint.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 445--446
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<Funcionamiento_Gateway.png, id=453, 894.9435pt x 399.29175pt>
+File: Funcionamiento_Gateway.png Graphic file (type png)
+<use Funcionamiento_Gateway.png>
+Package pdftex.def Info: Funcionamiento_Gateway.png  used on input line 451.
+(pdftex.def)             Requested size: 344.99812pt x 113.80542pt.
+<Servicio_Gateway.png, id=455, 709.4505pt x 331.2375pt>
+File: Servicio_Gateway.png Graphic file (type png)
+<use Servicio_Gateway.png>
+Package pdftex.def Info: Servicio_Gateway.png  used on input line 458.
+(pdftex.def)             Requested size: 345.00323pt x 113.807pt.
+<Seleccion_API_REST.png, id=457, 552.26324pt x 188.50426pt>
+File: Seleccion_API_REST.png Graphic file (type png)
+<use Seleccion_API_REST.png>
+Package pdftex.def Info: Seleccion_API_REST.png  used on input line 465.
+(pdftex.def)             Requested size: 345.00356pt x 110.9663pt.
+<Crear_API_Gateway.png, id=459, 553.46774pt x 463.13025pt>
+File: Crear_API_Gateway.png Graphic file (type png)
+<use Crear_API_Gateway.png>
+Package pdftex.def Info: Crear_API_Gateway.png  used on input line 473.
+(pdftex.def)             Requested size: 345.01285pt x 128.03609pt.
+<Crear_Recurso_API.png, id=462, 901.56825pt x 312.56775pt>
+File: Crear_Recurso_API.png Graphic file (type png)
+<use Crear_Recurso_API.png>
+Package pdftex.def Info: Crear_Recurso_API.png  used on input line 480.
+(pdftex.def)             Requested size: 344.99318pt x 105.27481pt.
+<Recursos_Predictor_Accidentes.png, id=463, 554.07pt x 309.5565pt>
+File: Recursos_Predictor_Accidentes.png Graphic file (type png)
+<use Recursos_Predictor_Accidentes.png>
+Package pdftex.def Info: Recursos_Predictor_Accidentes.png  used on input line 
+486.
+(pdftex.def)             Requested size: 344.99937pt x 105.27142pt.
+<Crear_Metodo_POST.png, id=467, 898.557pt x 308.95425pt>
+File: Crear_Metodo_POST.png Graphic file (type png)
+<use Crear_Metodo_POST.png>
+Package pdftex.def Info: Crear_Metodo_POST.png  used on input line 493.
+(pdftex.def)             Requested size: 345.00632pt x 142.2621pt.
+<Detalles_Metodo_POST.png, id=468, 461.92575pt x 506.49225pt>
+File: Detalles_Metodo_POST.png Graphic file (type png)
+<use Detalles_Metodo_POST.png>
+Package pdftex.def Info: Detalles_Metodo_POST.png  used on input line 499.
+(pdftex.def)             Requested size: 345.01263pt x 301.61008pt.
+<Deploy_API_Gateway.png, id=472, 933.4875pt x 245.718pt>
+File: Deploy_API_Gateway.png Graphic file (type png)
+<use Deploy_API_Gateway.png>
+Package pdftex.def Info: Deploy_API_Gateway.png  used on input line 506.
+(pdftex.def)             Requested size: 345.00038pt x 136.57756pt.
+<Detalles_Deploy_API.png, id=473, 448.67625pt x 433.62pt>
+File: Detalles_Deploy_API.png Graphic file (type png)
+<use Detalles_Deploy_API.png>
+Package pdftex.def Info: Detalles_Deploy_API.png  used on input line 512.
+(pdftex.def)             Requested size: 345.00938pt x 136.57117pt.
+<API_Implementada_Completa.png, id=474, 897.95474pt x 339.669pt>
+File: API_Implementada_Completa.png Graphic file (type png)
+<use API_Implementada_Completa.png>
+Package pdftex.def Info: API_Implementada_Completa.png  used on input line 518.
+
+(pdftex.def)             Requested size: 344.99431pt x 136.57524pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--522
+
+ []
+
+[28 <./EndPoint_Creado.png> <./Deploy_Lambda.png>] [29 <./Funcionamiento_Gatewa
+y.png> <./Servicio_Gateway.png> <./Seleccion_API_REST.png>] [30 <./Crear_API_Ga
+teway.png> <./Crear_Recurso_API.png> <./Recursos_Predictor_Accidentes.png>]
+[31 <./Crear_Metodo_POST.png> <./Detalles_Metodo_POST.png>]
+<Codigo_Cliente_JupyterLab.png, id=515, 665.48625pt x 398.08725pt>
+File: Codigo_Cliente_JupyterLab.png Graphic file (type png)
+<use Codigo_Cliente_JupyterLab.png>
+Package pdftex.def Info: Codigo_Cliente_JupyterLab.png  used on input line 526.
+
+(pdftex.def)             Requested size: 344.99876pt x 190.63628pt.
+<Comando_Ejecucion.png, id=516, 865.43324pt x 441.44925pt>
+File: Comando_Ejecucion.png Graphic file (type png)
+<use Comando_Ejecucion.png>
+Package pdftex.def Info: Comando_Ejecucion.png  used on input line 532.
+(pdftex.def)             Requested size: 345.00508pt x 190.63452pt.
+ [32 <./Deploy_API_Gateway.png> <./Detalles_Deploy_API.png> <./API_Implementada
+_Completa.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 538--539
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
+
+ []
+
+[33 <./Codigo_Cliente_JupyterLab.png> <./Comando_Ejecucion.png>]
+<Funcionamiento_Amplify.png, id=540, 888.31876pt x 283.65974pt>
+File: Funcionamiento_Amplify.png Graphic file (type png)
+<use Funcionamiento_Amplify.png>
+Package pdftex.def Info: Funcionamiento_Amplify.png  used on input line 548.
+(pdftex.def)             Requested size: 344.99257pt x 176.40825pt.
+<Repositorio_Nodes.png, id=545, 746.18774pt x 360.74776pt>
+File: Repositorio_Nodes.png Graphic file (type png)
+<use Repositorio_Nodes.png>
+Package pdftex.def Info: Repositorio_Nodes.png  used on input line 556.
+(pdftex.def)             Requested size: 345.00395pt x 113.81229pt.
+<Comando_Amplify.png, id=547, 613.69275pt x 133.6995pt>
+File: Comando_Amplify.png Graphic file (type png)
+<use Comando_Amplify.png>
+Package pdftex.def Info: Comando_Amplify.png  used on input line 563.
+(pdftex.def)             Requested size: 344.99532pt x 99.58685pt.
+<Consola_Android.png, id=550, 1154.51324pt x 575.14874pt>
+File: Consola_Android.png Graphic file (type png)
+<use Consola_Android.png>
+Package pdftex.def Info: Consola_Android.png  used on input line 570.
+(pdftex.def)             Requested size: 345.00018pt x 190.63339pt.
+<Sesion_Amplify.png, id=552, 434.22224pt x 119.84775pt>
+File: Sesion_Amplify.png Graphic file (type png)
+<use Sesion_Amplify.png>
+Package pdftex.def Info: Sesion_Amplify.png  used on input line 577.
+(pdftex.def)             Requested size: 344.99963pt x 85.35948pt.
+<Region_Amplify.png, id=555, 261.97874pt x 228.855pt>
+File: Region_Amplify.png Graphic file (type png)
+<use Region_Amplify.png>
+Package pdftex.def Info: Region_Amplify.png  used on input line 584.
+(pdftex.def)             Requested size: 345.00952pt x 113.80911pt.
+<Detalle_Usuario_IAM_Amplify.png, id=557, 1156.32pt x 420.97275pt>
+File: Detalle_Usuario_IAM_Amplify.png Graphic file (type png)
+<use Detalle_Usuario_IAM_Amplify.png>
+Package pdftex.def Info: Detalle_Usuario_IAM_Amplify.png  used on input line 59
+1.
+(pdftex.def)             Requested size: 344.99312pt x 128.03357pt.
+<Amplify_Access_Secret_Key.png, id=561, 380.622pt x 129.48375pt>
+File: Amplify_Access_Secret_Key.png Graphic file (type png)
+<use Amplify_Access_Secret_Key.png>
+Package pdftex.def Info: Amplify_Access_Secret_Key.png  used on input line 598.
+
+(pdftex.def)             Requested size: 345.01912pt x 130.89607pt.
+<Amplify_Profile_Name.png, id=563, 382.42876pt x 115.632pt>
+File: Amplify_Profile_Name.png Graphic file (type png)
+<use Amplify_Profile_Name.png>
+Package pdftex.def Info: Amplify_Profile_Name.png  used on input line 605.
+(pdftex.def)             Requested size: 345.01715pt x 130.89024pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--609
+
+ []
+
+
+Overfull \hbox (1.03027pt too wide) in paragraph at lines 545--609
+[]\T1/cmr/m/n/10 Posteriormente, in-gre-sa-mos el nom-bre del per-fil me-dian-t
+e con-so-la co-mo mues-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[34 <./Funcionamiento_Amplify.png>] [35 <./Repositorio_Nodes.png> <./Comando_Am
+plify.png> <./Consola_Android.png>] [36 <./Sesion_Amplify.png> <./Region_Amplif
+y.png> <./Detalle_Usuario_IAM_Amplify.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 610--613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--613
+
+ []
+
+[37 <./Amplify_Access_Secret_Key.png> <./Amplify_Profile_Name.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 625--627
+
+ []
+
+
+Overfull \hbox (15.918pt too wide) in paragraph at lines 628--629
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<Librerias_Gradle_Amplify.png, id=605, 375.804pt x 248.72925pt>
+File: Librerias_Gradle_Amplify.png Graphic file (type png)
+<use Librerias_Gradle_Amplify.png>
+Package pdftex.def Info: Librerias_Gradle_Amplify.png  used on input line 635.
+(pdftex.def)             Requested size: 345.01563pt x 99.58481pt.
+<Sync_Gradle.png, id=607, 1111.7535pt x 134.30174pt>
+File: Sync_Gradle.png Graphic file (type png)
+<use Sync_Gradle.png>
+Package pdftex.def Info: Sync_Gradle.png  used on input line 642.
+(pdftex.def)             Requested size: 344.99626pt x 73.97888pt.
+<Sync_Exito.png, id=609, 1156.32pt x 275.22826pt>
+File: Sync_Exito.png Graphic file (type png)
+<use Sync_Exito.png>
+Package pdftex.def Info: Sync_Exito.png  used on input line 649.
+(pdftex.def)             Requested size: 344.99312pt x 73.97664pt.
+<Amplify_Init.png, id=611, 1155.71774pt x 254.75175pt>
+File: Amplify_Init.png Graphic file (type png)
+<use Amplify_Init.png>
+Package pdftex.def Info: Amplify_Init.png  used on input line 656.
+(pdftex.def)             Requested size: 345.00742pt x 73.97717pt.
+<Amplify_Init_Configuracion.png, id=613, 341.47575pt x 252.34274pt>
+File: Amplify_Init_Configuracion.png Graphic file (type png)
+<use Amplify_Init_Configuracion.png>
+Package pdftex.def Info: Amplify_Init_Configuracion.png  used on input line 663
+.
+(pdftex.def)             Requested size: 345.00241pt x 142.26971pt.
+<Amplify_JSON.png, id=615, 1152.7065pt x 369.17924pt>
+File: Amplify_JSON.png Graphic file (type png)
+<use Amplify_JSON.png>
+Package pdftex.def Info: Amplify_JSON.png  used on input line 670.
+(pdftex.def)             Requested size: 344.98795pt x 102.42873pt.
+<Amplify_AWS_Proyecto.png, id=618, 1155.1155pt x 300.52275pt>
+File: Amplify_AWS_Proyecto.png Graphic file (type png)
+<use Amplify_AWS_Proyecto.png>
+Package pdftex.def Info: Amplify_AWS_Proyecto.png  used on input line 677.
+(pdftex.def)             Requested size: 345.00389pt x 102.42857pt.
+<S3_AWS_Proyecto.png, id=619, 1153.30875pt x 433.01775pt>
+File: S3_AWS_Proyecto.png Graphic file (type png)
+<use S3_AWS_Proyecto.png>
+Package pdftex.def Info: S3_AWS_Proyecto.png  used on input line 683.
+(pdftex.def)             Requested size: 344.9922pt x 125.18869pt.
+<Principal_Amplify.png, id=621, 883.50075pt x 448.074pt>
+File: Principal_Amplify.png Graphic file (type png)
+<use Principal_Amplify.png>
+Package pdftex.def Info: Principal_Amplify.png  used on input line 690.
+(pdftex.def)             Requested size: 345.00879pt x 125.18637pt.
+<Manifest_Amplify.png, id=623, 917.22675pt x 342.68025pt>
+File: Manifest_Amplify.png Graphic file (type png)
+<use Manifest_Amplify.png>
+Package pdftex.def Info: Manifest_Amplify.png  used on input line 697.
+(pdftex.def)             Requested size: 344.99486pt x 125.18967pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--701
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38] [39 <./Librerias_Gradle_Amplify.png> <./Sync_Gradle.png> <./Sync_Exito.png
+> <./Amplify_Init.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40 <./Amplify_Init_Configuracion.png> <./Amplify_JSON.png> <./Amplify_AWS_Proy
+ecto.png>]
+<Funcionamiento_Cognito.png, id=655, 895.54575pt x 352.9185pt>
+File: Funcionamiento_Cognito.png Graphic file (type png)
+<use Funcionamiento_Cognito.png>
+Package pdftex.def Info: Funcionamiento_Cognito.png  used on input line 705.
+(pdftex.def)             Requested size: 344.99799pt x 136.5768pt.
+<Librerias_Gradle_Cognito.png, id=657, 371.58826pt x 53.60025pt>
+File: Librerias_Gradle_Cognito.png Graphic file (type png)
+<use Librerias_Gradle_Cognito.png>
+Package pdftex.def Info: Librerias_Gradle_Cognito.png  used on input line 713.
+(pdftex.def)             Requested size: 345.01784pt x 56.90756pt.
+<Amplify_Add_Auth.png, id=659, 1154.51324pt x 257.16075pt>
+File: Amplify_Add_Auth.png Graphic file (type png)
+<use Amplify_Add_Auth.png>
+Package pdftex.def Info: Amplify_Add_Auth.png  used on input line 720.
+(pdftex.def)             Requested size: 345.00018pt x 170.71544pt.
+<Amplify_Add_Auth_Configuracion.png, id=661, 410.13225pt x 101.178pt>
+File: Amplify_Add_Auth_Configuracion.png Graphic file (type png)
+<use Amplify_Add_Auth_Configuracion.png>
+Package pdftex.def Info: Amplify_Add_Auth_Configuracion.png  used on input line
+ 727.
+(pdftex.def)             Requested size: 345.00313pt x 99.58911pt.
+<Amplify_Push.png, id=664, 987.08775pt x 53.60025pt>
+File: Amplify_Push.png Graphic file (type png)
+<use Amplify_Push.png>
+Package pdftex.def Info: Amplify_Push.png  used on input line 734.
+(pdftex.def)             Requested size: 345.0039pt x 45.52605pt.
+<Cognito_AWS_Proyecto.png, id=667, 1147.28625pt x 314.97675pt>
+File: Cognito_AWS_Proyecto.png Graphic file (type png)
+<use Cognito_AWS_Proyecto.png>
+Package pdftex.def Info: Cognito_AWS_Proyecto.png  used on input line 741.
+(pdftex.def)             Requested size: 344.9938pt x 128.03587pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--745
+
+ []
+
+[41 <./S3_AWS_Proyecto.png> <./Principal_Amplify.png> <./Manifest_Amplify.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42 <./Funcionamiento_Cognito.png> <./Librerias_Gradle_Cognito.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Comprobacion_Amplify.png, id=689, 1155.71774pt x 508.299pt>
+File: Comprobacion_Amplify.png Graphic file (type png)
+<use Comprobacion_Amplify.png>
+Package pdftex.def Info: Comprobacion_Amplify.png  used on input line 750.
+(pdftex.def)             Requested size: 345.00742pt x 253.2259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--754
+
+ []
+
+[43 <./Amplify_Add_Auth.png> <./Amplify_Add_Auth_Configuracion.png> <./Amplify_
+Push.png>] [44 <./Cognito_AWS_Proyecto.png> <./Comprobacion_Amplify.png>]
+<Funcionamiento_DynamoDB.png, id=708, 896.75024pt x 337.86224pt>
+File: Funcionamiento_DynamoDB.png Graphic file (type png)
+<use Funcionamiento_DynamoDB.png>
+Package pdftex.def Info: Funcionamiento_DynamoDB.png  used on input line 758.
+(pdftex.def)             Requested size: 345.01045pt x 139.41628pt.
+<Servicio_DynamoDB.png, id=710, 787.44188pt x 282.30469pt>
+File: Servicio_DynamoDB.png Graphic file (type png)
+<use Servicio_DynamoDB.png>
+Package pdftex.def Info: Servicio_DynamoDB.png  used on input line 766.
+(pdftex.def)             Requested size: 344.9976pt x 139.42032pt.
+<Tablas_DynamoDB.png, id=712, 1019.30812pt x 182.18062pt>
+File: Tablas_DynamoDB.png Graphic file (type png)
+<use Tablas_DynamoDB.png>
+Package pdftex.def Info: Tablas_DynamoDB.png  used on input line 773.
+(pdftex.def)             Requested size: 345.00484pt x 136.57674pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--779
+
+ []
+
+[45 <./Funcionamiento_DynamoDB.png> <./Servicio_DynamoDB.png>]
+<Configuracion_Tabla_DynamoDB.png, id=723, 543.53062pt x 1747.27782pt>
+File: Configuracion_Tabla_DynamoDB.png Graphic file (type png)
+<use Configuracion_Tabla_DynamoDB.png>
+Package pdftex.def Info: Configuracion_Tabla_DynamoDB.png  used on input line 7
+92.
+(pdftex.def)             Requested size: 345.0137pt x 526.37361pt.
+<Tablas_DynamoDB_Creada.png, id=725, 1019.30812pt x 327.47343pt>
+File: Tablas_DynamoDB_Creada.png Graphic file (type png)
+<use Tablas_DynamoDB_Creada.png>
+Package pdftex.def Info: Tablas_DynamoDB_Creada.png  used on input line 799.
+(pdftex.def)             Requested size: 345.00484pt x 190.63428pt.
+<Crear_Elemento_Tabla_DynamoDB.png, id=727, 937.101pt x 493.845pt>
+File: Crear_Elemento_Tabla_DynamoDB.png Graphic file (type png)
+<use Crear_Elemento_Tabla_DynamoDB.png>
+Package pdftex.def Info: Crear_Elemento_Tabla_DynamoDB.png  used on input line 
+806.
+(pdftex.def)             Requested size: 344.99176pt x 190.632pt.
+<Nuevo_Elemento_DynamoDB.png, id=729, 781.11826pt x 242.70676pt>
+File: Nuevo_Elemento_DynamoDB.png Graphic file (type png)
+<use Nuevo_Elemento_DynamoDB.png>
+Package pdftex.def Info: Nuevo_Elemento_DynamoDB.png  used on input line 813.
+(pdftex.def)             Requested size: 345.00417pt x 184.94418pt.
+<Elemento_Creado_DynamoDB.png, id=731, 1121.99174pt x 490.2315pt>
+File: Elemento_Creado_DynamoDB.png Graphic file (type png)
+<use Elemento_Creado_DynamoDB.png>
+Package pdftex.def Info: Elemento_Creado_DynamoDB.png  used on input line 820.
+(pdftex.def)             Requested size: 345.00613pt x 170.71587pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--826
+
+ []
+
+[46 <./Tablas_DynamoDB.png>] [47 <./Configuracion_Tabla_DynamoDB.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[48 <./Tablas_DynamoDB_Creada.png> <./Crear_Elemento_Tabla_DynamoDB.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 827--828
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<DynamoDB_NoteBook.png, id=759, 868.4445pt x 290.2845pt>
+File: DynamoDB_NoteBook.png Graphic file (type png)
+<use DynamoDB_NoteBook.png>
+Package pdftex.def Info: DynamoDB_NoteBook.png  used on input line 833.
+(pdftex.def)             Requested size: 344.99965pt x 130.88371pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--839
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--839
+
+ []
+
+[49 <./Nuevo_Elemento_DynamoDB.png> <./Elemento_Creado_DynamoDB.png>]
+<DataSet_to_JSON.png, id=772, 873.2625pt x 515.526pt>
+File: DataSet_to_JSON.png Graphic file (type png)
+<use DataSet_to_JSON.png>
+Package pdftex.def Info: DataSet_to_JSON.png  used on input line 845.
+(pdftex.def)             Requested size: 344.99486pt x 130.87921pt.
+<Upload_Jupyter_DataSet_JSON.png, id=775, 866.63776pt x 151.16475pt>
+File: Upload_Jupyter_DataSet_JSON.png Graphic file (type png)
+<use Upload_Jupyter_DataSet_JSON.png>
+Package pdftex.def Info: Upload_Jupyter_DataSet_JSON.png  used on input line 85
+2.
+(pdftex.def)             Requested size: 344.99599pt x 71.13046pt.
+<Jupyter_DataSet_JSON.png, id=776, 864.831pt x 313.17pt>
+File: Jupyter_DataSet_JSON.png Graphic file (type png)
+<use Jupyter_DataSet_JSON.png>
+Package pdftex.def Info: Jupyter_DataSet_JSON.png  used on input line 858.
+(pdftex.def)             Requested size: 345.00253pt x 128.04213pt.
+<Formato_JSON_TXT.png, id=779, 1147.28625pt x 594.42075pt>
+File: Formato_JSON_TXT.png Graphic file (type png)
+<use Formato_JSON_TXT.png>
+Package pdftex.def Info: Formato_JSON_TXT.png  used on input line 865.
+(pdftex.def)             Requested size: 344.9938pt x 176.40472pt.
+<Codigo_DynamoDB_Jupyter.png, id=781, 558.28575pt x 1290.62175pt>
+File: Codigo_DynamoDB_Jupyter.png Graphic file (type png)
+<use Codigo_DynamoDB_Jupyter.png>
+Package pdftex.def Info: Codigo_DynamoDB_Jupyter.png  used on input line 872.
+(pdftex.def)             Requested size: 345.0006pt x 526.38159pt.
+<DyanmoDB_DataSet.png, id=784, 1132.23pt x 508.299pt>
+File: DyanmoDB_DataSet.png Graphic file (type png)
+<use DyanmoDB_DataSet.png>
+Package pdftex.def Info: DyanmoDB_DataSet.png  used on input line 879.
+(pdftex.def)             Requested size: 344.99275pt x 170.70973pt.
+ [50 <./DynamoDB_NoteBook.png> <./DataSet_to_JSON.png>] [51 <./Upload_Jupyter_D
+ataSet_JSON.png> <./Jupyter_DataSet_JSON.png> <./Formato_JSON_TXT.png>] [52 <./
+Codigo_DynamoDB_Jupyter.png>]
+<Infraestructura_Agente_Respuesta.png, id=809, 479.391pt x 311.9655pt>
+File: Infraestructura_Agente_Respuesta.png Graphic file (type png)
+<use Infraestructura_Agente_Respuesta.png>
+Package pdftex.def Info: Infraestructura_Agente_Respuesta.png  used on input li
+ne 888.
+(pdftex.def)             Requested size: 345.00764pt x 170.71996pt.
+ [53 <./DyanmoDB_DataSet.png> <./Infraestructura_Agente_Respuesta.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 894--895
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<APP_Alertas.png, id=820, 440.24475pt x 469.755pt>
+File: APP_Alertas.png Graphic file (type png)
+<use APP_Alertas.png>
+Package pdftex.def Info: APP_Alertas.png  used on input line 899.
+(pdftex.def)             Requested size: 345.01518pt x 241.8441pt.
+<APP_Alertas_Logcat.png, id=822, 1060.56226pt x 417.35925pt>
+File: APP_Alertas_Logcat.png Graphic file (type png)
+<use APP_Alertas_Logcat.png>
+Package pdftex.def Info: APP_Alertas_Logcat.png  used on input line 906.
+(pdftex.def)             Requested size: 345.0023pt x 113.80933pt.
+<Cambio_URL_APP.png, id=826, 1072.60725pt x 345.6915pt>
+File: Cambio_URL_APP.png Graphic file (type png)
+<use Cambio_URL_APP.png>
+Package pdftex.def Info: Cambio_URL_APP.png  used on input line 913.
+(pdftex.def)             Requested size: 344.99257pt x 210.54973pt.
+<Esquema_Final_Sistema_Predicción.png, id=828, 775.698pt x 315.579pt>
+File: Esquema_Final_Sistema_Predicción.png Graphic file (type png)
+<use Esquema_Final_Sistema_Predicción.png>
+Package pdftex.def Info: Esquema_Final_Sistema_Predicción.png  used on input l
+ine 920.
+(pdftex.def)             Requested size: 345.00105pt x 210.54597pt.
+[54 <./APP_Alertas.png> <./APP_Alertas_Logcat.png>] [55 <./Cambio_URL_APP.png> 
+<./Esquema_Final_Sistema_Predicción.png>]
+Overfull \hbox (0.67184pt too wide) in paragraph at lines 930--931
+[][][]$\T1/cmtt/m/n/10 https : / / developers . google . com / maps / documenta
+tion / android-[]sdk ?
+ []
+
+<Maps_SDK_Android.png, id=847, 1156.32pt x 496.85625pt>
+File: Maps_SDK_Android.png Graphic file (type png)
+<use Maps_SDK_Android.png>
+Package pdftex.def Info: Maps_SDK_Android.png  used on input line 934.
+(pdftex.def)             Requested size: 344.99312pt x 142.26508pt.
+<Nuevo_Maps_SDK.png, id=849, 1141.866pt x 502.2765pt>
+File: Nuevo_Maps_SDK.png Graphic file (type png)
+<use Nuevo_Maps_SDK.png>
+Package pdftex.def Info: Nuevo_Maps_SDK.png  used on input line 941.
+(pdftex.def)             Requested size: 345.00172pt x 142.26125pt.
+<Nuevo_Proyecto_Maps.png, id=851, 401.70074pt x 298.716pt>
+File: Nuevo_Proyecto_Maps.png Graphic file (type png)
+<use Nuevo_Proyecto_Maps.png>
+Package pdftex.def Info: Nuevo_Proyecto_Maps.png  used on input line 948.
+(pdftex.def)             Requested size: 345.00844pt x 202.02113pt.
+<Seleccion_SDK_Proyecto.png, id=853, 1156.32pt x 291.489pt>
+File: Seleccion_SDK_Proyecto.png Graphic file (type png)
+<use Seleccion_SDK_Proyecto.png>
+Package pdftex.def Info: Seleccion_SDK_Proyecto.png  used on input line 955.
+(pdftex.def)             Requested size: 344.99312pt x 202.01717pt.
+<API_Servicios_SDK_Maps.png, id=855, 1156.32pt x 620.3175pt>
+File: API_Servicios_SDK_Maps.png Graphic file (type png)
+<use API_Servicios_SDK_Maps.png>
+Package pdftex.def Info: API_Servicios_SDK_Maps.png  used on input line 962.
+(pdftex.def)             Requested size: 344.99312pt x 113.81041pt.
+<Clave_API_SDK.png, id=858, 427.5975pt x 333.6465pt>
+File: Clave_API_SDK.png Graphic file (type png)
+<use Clave_API_SDK.png>
+Package pdftex.def Info: Clave_API_SDK.png  used on input line 970.
+(pdftex.def)             Requested size: 345.00148pt x 113.80995pt.
+<Clave_API_SDK_Android.png, id=859, 611.886pt x 425.79076pt>
+File: Clave_API_SDK_Android.png Graphic file (type png)
+<use Clave_API_SDK_Android.png>
+Package pdftex.def Info: Clave_API_SDK_Android.png  used on input line 976.
+(pdftex.def)             Requested size: 344.9973pt x 139.41988pt.
+<Maps_SDK_Android_Habilitada.png, id=861, 916.02225pt x 364.9635pt>
+File: Maps_SDK_Android_Habilitada.png Graphic file (type png)
+<use Maps_SDK_Android_Habilitada.png>
+Package pdftex.def Info: Maps_SDK_Android_Habilitada.png  used on input line 98
+3.
+(pdftex.def)             Requested size: 345.00308pt x 142.26279pt.
+<Maps_SDK_Android_Funcionamiento_APP.png, id=863, 220.4235pt x 468.5505pt>
+File: Maps_SDK_Android_Funcionamiento_APP.png Graphic file (type png)
+<use Maps_SDK_Android_Funcionamiento_APP.png>
+Package pdftex.def Info: Maps_SDK_Android_Funcionamiento_APP.png  used on input
+ line 990.
+(pdftex.def)             Requested size: 137.9964pt x 239.00049pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 938--994
+
+ []
+
+[56 <./Maps_SDK_Android.png> <./Nuevo_Maps_SDK.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[57 <./Nuevo_Proyecto_Maps.png> <./Seleccion_SDK_Proyecto.png>] [58 <./API_Serv
+icios_SDK_Maps.png> <./Clave_API_SDK.png> <./Clave_API_SDK_Android.png>]
+<Servicios_AWS_SageMaker_Activos.png, id=891, 1141.866pt x 489.62926pt>
+File: Servicios_AWS_SageMaker_Activos.png Graphic file (type png)
+<use Servicios_AWS_SageMaker_Activos.png>
+Package pdftex.def Info: Servicios_AWS_SageMaker_Activos.png  used on input lin
+e 1000.
+(pdftex.def)             Requested size: 345.00172pt x 119.50073pt.
+<AWS_SageMaker_Servicios_Baja.png, id=893, 1132.23pt x 456.5055pt>
+File: AWS_SageMaker_Servicios_Baja.png Graphic file (type png)
+<use AWS_SageMaker_Servicios_Baja.png>
+Package pdftex.def Info: AWS_SageMaker_Servicios_Baja.png  used on input line 1
+007.
+(pdftex.def)             Requested size: 344.99275pt x 119.49664pt.
+<Detalle_AWS_SageMaker_Servicios_Baja.png, id=895, 890.72775pt x 505.28775pt>
+File: Detalle_AWS_SageMaker_Servicios_Baja.png Graphic file (type png)
+<use Detalle_AWS_SageMaker_Servicios_Baja.png>
+Package pdftex.def Info: Detalle_AWS_SageMaker_Servicios_Baja.png  used on inpu
+t line 1014.
+(pdftex.def)             Requested size: 344.99034pt x 119.49821pt.
+<Alerta_Eliminacion_Servicio.png, id=897, 457.71pt x 193.32225pt>
+File: Alerta_Eliminacion_Servicio.png Graphic file (type png)
+<use Alerta_Eliminacion_Servicio.png>
+Package pdftex.def Info: Alerta_Eliminacion_Servicio.png  used on input line 10
+21.
+(pdftex.def)             Requested size: 345.01372pt x 108.12108pt.
+<AWS_SageMaker_Panel_Eliminacion.png, id=899, 1125.003pt x 439.04025pt>
+File: AWS_SageMaker_Panel_Eliminacion.png Graphic file (type png)
+<use AWS_SageMaker_Panel_Eliminacion.png>
+Package pdftex.def Info: AWS_SageMaker_Panel_Eliminacion.png  used on input lin
+e 1028.
+(pdftex.def)             Requested size: 344.98795pt x 108.11848pt.
+<Suspender_Bloc_Notas.png, id=901, 1133.4345pt x 274.02374pt>
+File: Suspender_Bloc_Notas.png Graphic file (type png)
+<use Suspender_Bloc_Notas.png>
+Package pdftex.def Info: Suspender_Bloc_Notas.png  used on input line 1035.
+(pdftex.def)             Requested size: 344.99658pt x 108.1232pt.
+<Bloc_Notas_Suspenso.png, id=903, 1116.5715pt x 213.79875pt>
+File: Bloc_Notas_Suspenso.png Graphic file (type png)
+<use Bloc_Notas_Suspenso.png>
+Package pdftex.def Info: Bloc_Notas_Suspenso.png  used on input line 1042.
+(pdftex.def)             Requested size: 344.99208pt x 173.56097pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--1047
+
+ []
+
+[59 <./Maps_SDK_Android_Habilitada.png> <./Maps_SDK_Android_Funcionamiento_APP.
+png>] [60 <./Servicios_AWS_SageMaker_Activos.png> <./AWS_SageMaker_Servicios_Ba
+ja.png> <./Detalle_AWS_SageMaker_Servicios_Baja.png>] [61 <./Alerta_Eliminacion
+_Servicio.png> <./AWS_SageMaker_Panel_Eliminacion.png> <./Suspender_Bloc_Notas.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1051
+
+ []
+
+[62 <./Bloc_Notas_Suspenso.png>]
+Overfull \hbox (58.90775pt too wide) in paragraph at lines 1062--1063
+[][][]$\T1/cmtt/m/n/10 https : / / docs . amplify . aws / android / start / pro
+ject-[]setup / create-[]application/$[][] 
+ []
+
+
+Overfull \hbox (32.16415pt too wide) in paragraph at lines 1063--1064
+[][][]$\T1/cmtt/m/n/10 https : / / docs . amplify . aws / android / start / pro
+ject-[]setup / prerequisites/$[][] 
+ []
+
+
+Overfull \hbox (28.41544pt too wide) in paragraph at lines 1064--1065
+[][][]$\T1/cmtt/m/n/10 https : / / docs . amplify . aws / android / build-[]a-[
+]backend / auth / set-[]up-[]auth/$[][] 
+ []
+
+(Manual_Servicios.bbl [63]) [64] (Manual_Servicios.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `Manual_Servicios.out' has not changed.
+(rerunfilecheck)             Checksum: 6C499505B369D48DAF45FE0DDBA39C1A;5004.
+ ) 
+Here is how much of TeX's memory you used:
+ 14438 strings out of 476331
+ 247151 string characters out of 5782537
+ 1868660 words of memory out of 5000000
+ 34370 multiletter control sequences out of 15000+600000
+ 521747 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,7n,77p,1202b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti1000.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Christian Arroyo\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Christian Arroy
+o\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\User
+s\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1200.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm1000.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Christian Arroyo\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Christian
+ Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Manual_Servicios.pdf (65 pages, 10262116 bytes).
+PDF statistics:
+ 1399 PDF objects out of 1440 (max. 8388607)
+ 229 named destinations out of 1000 (max. 500000)
+ 835 words of extra memory for PDF output out of 10000 (max. 10000000)
+
