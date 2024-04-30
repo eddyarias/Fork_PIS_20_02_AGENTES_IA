@@ -1,0 +1,47 @@
+\begin{thebibliography}{}
+
+\bibitem[AccuWeather, 2024]{AccuWeather_2}
+AccuWeather (2024).
+\newblock Accuweather.
+\newblock Disponible en: \url{https://www.accuweather.com/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[AWS, 2024]{AWS_S3}
+AWS (2024).
+\newblock Amazon s3.
+\newblock Disponible en: \url{https://aws.amazon.com/es/s3/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[ENERGÍA, 2024]{CONUEE}
+ENERGÍA, C. N. P. E. U. E. D.~L. (2024).
+\newblock DiagnÓstico a bordo (obd).
+\newblock Disponible en:
+  \url{https://www.gob.mx/cms/uploads/attachment/file/187221/diagnosticoabordo_1_260117.pdf}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[GEOTAB, 2024]{GeoTab}
+GEOTAB (2024).
+\newblock ¿qué es el puerto obdii? historia del diagnóstico a bordo.
+\newblock Disponible en: \url{https://www.geotab.com/es/blog/obd-ii/}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[Marcillo et~al., 2022]{marcillo2022systematic}
+Marcillo, P., Valdivieso~Caraguay, {\'A}.~L., and Hern{\'a}ndez-{\'A}lvarez, M.
+  (2022).
+\newblock A systematic literature review of learning-based traffic accident
+  prediction models based on heterogeneous sources.
+\newblock {\em Applied Sciences}, 12(9):4529.
+
+\bibitem[Studio, 2024]{Android}
+Studio, A. (2024).
+\newblock Android studio.
+\newblock Disponible en: \url{https://developer.android.com/studio?hl=es-419}.
+\newblock Ultimo Acceso: \today.
+
+\bibitem[Wikipedia, 2024]{AccuWeather}
+Wikipedia (2024).
+\newblock Accuweather.
+\newblock Disponible en: \url{https://en.wikipedia.org/wiki/AccuWeather}.
+\newblock Ultimo Acceso: \today.
+
+\end{thebibliography}

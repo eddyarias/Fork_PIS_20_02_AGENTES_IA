@@ -1,0 +1,1129 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.17)  30 APR 2024 15:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Manual_Servicios.tex
+(Manual_Servicios.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.
+clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babe
+l.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtb
+abel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopt
+s.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanis
+h\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count195
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/babel/loca
+le/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyp
+erref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds
+\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kv
+setkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefineke
+ys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\
+pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hyco
+lor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\
+letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxh
+ook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nam
+eref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\ref
+count.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlest
+ring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kv
+options.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count196
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count197
+\Hy@pagecounter=\count198
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1
+enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\in
+tcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\e
+texcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count199
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pue
+nc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count266
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen143
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bit
+set.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc
+\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count267
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegsh
+i-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpd
+ftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\atverye
+nd-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfileche
+ck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecoun
+ter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputen
+c.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc
+.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subc
+aption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen146
+\captionmargin=\dimen147
+\caption@leftmargin=\dimen148
+\caption@rightmargin=\dimen149
+\caption@width=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count275
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count276
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.sty
+\lst@mode=\count277
+\lst@gtempboxa=\box51
+\lst@token=\toks20
+\lst@length=\count278
+\lst@currlwidth=\dimen156
+\lst@column=\count279
+\lst@pos=\count280
+\lst@lostspace=\dimen157
+\lst@width=\dimen158
+\lst@newlines=\count281
+\lst@lineno=\count282
+\lst@maxwidth=\dimen159
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count283
+\lst@skipnumbers=\count284
+\lst@framebox=\box52
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sect
+sty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
+hcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box53
+) (Manual_Servicios.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+\openout1 = `Manual_Servicios.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+Package hyperref Info: Link coloring OFF on input line 17.
+ (Manual_Servicios.out)
+(Manual_Servicios.out)
+\@outlinefile=\write3
+\openout3 = `Manual_Servicios.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen161
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count292
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+ [1
+
+{C:/Users/Christian Arroyo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<Funcionalidad.png, id=83, 501.072pt x 329.43076pt>
+File: Funcionalidad.png Graphic file (type png)
+<use Funcionalidad.png>
+Package pdftex.def Info: Funcionalidad.png  used on input line 25.
+(pdftex.def)             Requested size: 344.99843pt x 187.79256pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--29
+
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.35 		\item M
+              ejora del rendimiento: Utilizar los datos proporcionados por e...
+[1 <./Funcionalidad.png>] [2]
+<Esquema.png, id=101, 727.518pt x 386.6445pt>
+File: Esquema.png Graphic file (type png)
+<use Esquema.png>
+Package pdftex.def Info: Esquema.png  used on input line 58.
+(pdftex.def)             Requested size: 344.99739pt x 204.85571pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--63
+
+ []
+
+[3 <./Esquema.png>]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+4.
+
+(C:\Users\Christian Arroyo\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.
+fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 64.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 64.
+
+Overfull \hbox (15.918pt too wide) in paragraph at lines 64--65
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+
+ []
+
+<Imagen_OBD-1.png, id=115, 129.48375pt x 129.48375pt>
+File: Imagen_OBD-1.png Graphic file (type png)
+<use Imagen_OBD-1.png>
+Package pdftex.def Info: Imagen_OBD-1.png  used on input line 78.
+(pdftex.def)             Requested size: 69.00143pt x 56.90584pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Parametros_OBD-2.png, id=119, 543.83176pt x 358.33875pt>
+File: Parametros_OBD-2.png Graphic file (type png)
+<use Parametros_OBD-2.png>
+Package pdftex.def Info: Parametros_OBD-2.png  used on input line 88.
+(pdftex.def)             Requested size: 345.00569pt x 176.40768pt.
+<Imagen_OBD-2.png, id=120, 180.07275pt x 184.89075pt>
+File: Imagen_OBD-2.png Graphic file (type png)
+<use Imagen_OBD-2.png>
+Package pdftex.def Info: Imagen_OBD-2.png  used on input line 94.
+(pdftex.def)             Requested size: 68.99712pt x 56.90645pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--98
+
+ []
+
+[4] [5 <./Imagen_OBD-1.png> <./Parametros_OBD-2.png> <./Imagen_OBD-2.png>]
+<Funcionamiento_AWS_S3.png, id=141, 896.75024pt x 342.078pt>
+File: Funcionamiento_AWS_S3.png Graphic file (type png)
+<use Funcionamiento_AWS_S3.png>
+Package pdftex.def Info: Funcionamiento_AWS_S3.png  used on input line 103.
+(pdftex.def)             Requested size: 345.01045pt x 179.25957pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+[6 <./Funcionamiento_AWS_S3.png>]
+<Permisos_APP_OBD.png, id=153, 643.80525pt x 87.9285pt>
+File: Permisos_APP_OBD.png Graphic file (type png)
+<use Permisos_APP_OBD.png>
+Package pdftex.def Info: Permisos_APP_OBD.png  used on input line 126.
+(pdftex.def)             Requested size: 345.0071pt x 108.12724pt.
+<Nuevas_Dependencias_OBD.png, id=155, 368.577pt x 49.3845pt>
+File: Nuevas_Dependencias_OBD.png Graphic file (type png)
+<use Nuevas_Dependencias_OBD.png>
+Package pdftex.def Info: Nuevas_Dependencias_OBD.png  used on input line 133.
+(pdftex.def)             Requested size: 345.01141pt x 62.59778pt.
+<Nuevas_Tareas_OBD.png, id=157, 603.4545pt x 328.22626pt>
+File: Nuevas_Tareas_OBD.png Graphic file (type png)
+<use Nuevas_Tareas_OBD.png>
+Package pdftex.def Info: Nuevas_Tareas_OBD.png  used on input line 140.
+(pdftex.def)             Requested size: 345.00392pt x 241.8519pt.
+<String_Nuevo_OBD.png, id=159, 982.872pt x 411.939pt>
+File: String_Nuevo_OBD.png Graphic file (type png)
+<use String_Nuevo_OBD.png>
+Package pdftex.def Info: String_Nuevo_OBD.png  used on input line 147.
+(pdftex.def)             Requested size: 345.00018pt x 241.84761pt.
+<Parametros_Activity.png, id=162, 684.75826pt x 448.074pt>
+File: Parametros_Activity.png Graphic file (type png)
+<use Parametros_Activity.png>
+Package pdftex.def Info: Parametros_Activity.png  used on input line 154.
+(pdftex.def)             Requested size: 345.00087pt x 233.31432pt.
+<Codigo_Parametros_Activity.png, id=163, 600.44325pt x 476.37975pt>
+File: Codigo_Parametros_Activity.png Graphic file (type png)
+<use Codigo_Parametros_Activity.png>
+Package pdftex.def Info: Codigo_Parametros_Activity.png  used on input line 160
+.
+(pdftex.def)             Requested size: 344.99565pt x 233.3118pt.
+<Enumeracion_Parametros_OBD.png, id=166, 256.5585pt x 181.8795pt>
+File: Enumeracion_Parametros_OBD.png Graphic file (type png)
+<use Enumeracion_Parametros_OBD.png>
+Package pdftex.def Info: Enumeracion_Parametros_OBD.png  used on input line 168
+.
+(pdftex.def)             Requested size: 258.77362pt x 71.13252pt.
+<Interfaz_Grafica_OBD.png, id=168, 596.82974pt x 417.9615pt>
+File: Interfaz_Grafica_OBD.png Graphic file (type png)
+<use Interfaz_Grafica_OBD.png>
+Package pdftex.def Info: Interfaz_Grafica_OBD.png  used on input line 175.
+(pdftex.def)             Requested size: 345.00491pt x 264.62454pt.
+<Navegacion_OBD_Manifest.png, id=170, 443.256pt x 164.41425pt>
+File: Navegacion_OBD_Manifest.png Graphic file (type png)
+<use Navegacion_OBD_Manifest.png>
+Package pdftex.def Info: Navegacion_OBD_Manifest.png  used on input line 182.
+(pdftex.def)             Requested size: 345.00105pt x 142.26904pt.
+<Logica_Negocios_OBD.png, id=172, 585.98924pt x 442.65375pt>
+File: Logica_Negocios_OBD.png Graphic file (type png)
+<use Logica_Negocios_OBD.png>
+Package pdftex.def Info: Logica_Negocios_OBD.png  used on input line 189.
+(pdftex.def)             Requested size: 345.0064pt x 162.17853pt.
+
+Overfull \hbox (2.89093pt too wide) in paragraph at lines 123--193
+[]\T1/cmr/m/n/10 El pri-mer pa-so a rea-li-zar es la mo-di-fi-ca-ción del ar-ch
+i-vo ``An-dro-id-Ma-ni-fest.xml''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--193
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./Permisos_APP_OBD.png> <./Nuevas_Dependencias_OBD.png>] [8 <./Nuevas_Tarea
+s_OBD.png> <./String_Nuevo_OBD.png>] [9 <./Parametros_Activity.png> <./Codigo_P
+arametros_Activity.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./Enumeracion_Parametros_OBD.png> <./Interfaz_Grafica_OBD.png>] [11 <./Nav
+egacion_OBD_Manifest.png> <./Logica_Negocios_OBD.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 202--203
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / blob / main /
+ []
+
+
+Overfull \hbox (5.42056pt too wide) in paragraph at lines 202--203
+\T1/cmtt/m/n/10 Actualizacion _ 2024 / Manual % 20Servicios % 20V1 . 0 / Manual
+ _ Servicios .
+ []
+
+<AWS_Add_Storage.png, id=215, 863.6265pt x 43.96425pt>
+File: AWS_Add_Storage.png Graphic file (type png)
+<use AWS_Add_Storage.png>
+Package pdftex.def Info: AWS_Add_Storage.png  used on input line 207.
+(pdftex.def)             Requested size: 345.00961pt x 28.45297pt.
+<Configuracion_AWS_Bucket_S3.png, id=217, 1068.99374pt x 327.624pt>
+File: Configuracion_AWS_Bucket_S3.png Graphic file (type png)
+<use Configuracion_AWS_Bucket_S3.png>
+Package pdftex.def Info: Configuracion_AWS_Bucket_S3.png  used on input line 21
+4.
+(pdftex.def)             Requested size: 345.00475pt x 239.00854pt.
+<Amplify_Push_AWS_S3.png, id=219, 1008.76875pt x 358.33875pt>
+File: Amplify_Push_AWS_S3.png Graphic file (type png)
+<use Amplify_Push_AWS_S3.png>
+Package pdftex.def Info: Amplify_Push_AWS_S3.png  used on input line 221.
+(pdftex.def)             Requested size: 344.99327pt x 167.87245pt.
+<Bucket_S3_Creado_OBD.png, id=221, 1049.72176pt x 392.06474pt>
+File: Bucket_S3_Creado_OBD.png Graphic file (type png)
+<use Bucket_S3_Creado_OBD.png>
+Package pdftex.def Info: Bucket_S3_Creado_OBD.png  used on input line 229.
+(pdftex.def)             Requested size: 344.99973pt x 167.86665pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./AWS_Add_Storage.png> <./Configuracion_AWS_Bucket_S3.png>]
+<Ejemplo_Dispositivo_OBD.png, id=233, 386.04225pt x 256.5585pt>
+File: Ejemplo_Dispositivo_OBD.png Graphic file (type png)
+<use Ejemplo_Dispositivo_OBD.png>
+Package pdftex.def Info: Ejemplo_Dispositivo_OBD.png  used on input line 237.
+(pdftex.def)             Requested size: 155.25061pt x 85.35747pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./Amplify_Push_AWS_S3.png> <./Bucket_S3_Creado_OBD.png>]
+<Flujo_Trabajo_OBD2.png, id=243, 938.3055pt x 414.95026pt>
+File: Flujo_Trabajo_OBD2.png Graphic file (type png)
+<use Flujo_Trabajo_OBD2.png>
+Package pdftex.def Info: Flujo_Trabajo_OBD2.png  used on input line 252.
+(pdftex.def)             Requested size: 345.00568pt x 85.3566pt.
+<Esquema_Funcionalidad_OBD.png, id=245, 290.2845pt x 345.08925pt>
+File: Esquema_Funcionalidad_OBD.png Graphic file (type png)
+<use Esquema_Funcionalidad_OBD.png>
+Package pdftex.def Info: Esquema_Funcionalidad_OBD.png  used on input line 259.
+
+(pdftex.def)             Requested size: 155.24973pt x 110.96265pt.
+<Apertura_App_OBD2.png, id=247, 218.0145pt x 469.15276pt>
+File: Apertura_App_OBD2.png Graphic file (type png)
+<use Apertura_App_OBD2.png>
+Package pdftex.def Info: Apertura_App_OBD2.png  used on input line 268.
+(pdftex.def)             Requested size: 155.25708pt x 204.86009pt.
+<Registro_Ingreso_Credenciales.png, id=249, 199.947pt x 364.36125pt>
+File: Registro_Ingreso_Credenciales.png Graphic file (type png)
+<use Registro_Ingreso_Credenciales.png>
+Package pdftex.def Info: Registro_Ingreso_Credenciales.png  used on input line 
+275.
+(pdftex.def)             Requested size: 155.25325pt x 204.85817pt.
+ [14 <./Ejemplo_Dispositivo_OBD.png> <./Flujo_Trabajo_OBD2.png> <./Esquema_Func
+ionalidad_OBD.png>] [15 <./Apertura_App_OBD2.png> <./Registro_Ingreso_Credencia
+les.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 281--282
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<Seccion_OBD2.png, id=269, 198.7425pt x 363.759pt>
+File: Seccion_OBD2.png Graphic file (type png)
+<use Seccion_OBD2.png>
+Package pdftex.def Info: Seccion_OBD2.png  used on input line 286.
+(pdftex.def)             Requested size: 155.25201pt x 165.02771pt.
+<Informacion_OBD2.png, id=272, 198.7425pt x 360.1455pt>
+File: Informacion_OBD2.png Graphic file (type png)
+<use Informacion_OBD2.png>
+Package pdftex.def Info: Informacion_OBD2.png  used on input line 293.
+(pdftex.def)             Requested size: 155.25201pt x 165.02597pt.
+<Lista_Dispositivos_OBD2.png, id=273, 436.029pt x 360.1455pt>
+File: Lista_Dispositivos_OBD2.png Graphic file (type png)
+<use Lista_Dispositivos_OBD2.png>
+Package pdftex.def Info: Lista_Dispositivos_OBD2.png  used on input line 299.
+(pdftex.def)             Requested size: 241.49995pt x 236.15805pt.
+<Dispositivo_OBD2_Seleccionado.png, id=275, 198.14024pt x 362.5545pt>
+File: Dispositivo_OBD2_Seleccionado.png Graphic file (type png)
+<use Dispositivo_OBD2_Seleccionado.png>
+Package pdftex.def Info: Dispositivo_OBD2_Seleccionado.png  used on input line 
+306.
+(pdftex.def)             Requested size: 155.25925pt x 236.16106pt.
+<Conectar_OBD-2.png, id=277, 196.93575pt x 362.5545pt>
+File: Conectar_OBD-2.png Graphic file (type png)
+<use Conectar_OBD-2.png>
+Package pdftex.def Info: Conectar_OBD-2.png  used on input line 313.
+(pdftex.def)             Requested size: 155.25899pt x 216.23985pt.
+<Inicio_Mediciones_OBD-2.png, id=279, 197.538pt x 361.95226pt>
+File: Inicio_Mediciones_OBD-2.png Graphic file (type png)
+<use Inicio_Mediciones_OBD-2.png>
+Package pdftex.def Info: Inicio_Mediciones_OBD-2.png  used on input line 320.
+(pdftex.def)             Requested size: 155.25153pt x 216.24516pt.
+<Presentacion_Almacenamiento_Lecturas_OBD.png, id=283, 198.14024pt x 361.35pt>
+File: Presentacion_Almacenamiento_Lecturas_OBD.png Graphic file (type png)
+<use Presentacion_Almacenamiento_Lecturas_OBD.png>
+Package pdftex.def Info: Presentacion_Almacenamiento_Lecturas_OBD.png  used on 
+input line 327.
+(pdftex.def)             Requested size: 155.25925pt x 190.63239pt.
+<Datos_OBD_Guardados_CSV.png, id=285, 196.93575pt x 361.95226pt>
+File: Datos_OBD_Guardados_CSV.png Graphic file (type png)
+<use Datos_OBD_Guardados_CSV.png>
+Package pdftex.def Info: Datos_OBD_Guardados_CSV.png  used on input line 334.
+(pdftex.def)             Requested size: 155.25899pt x 190.63528pt.
+<Archivo_CSV_OBD_Subido_S3.png, id=287, 197.538pt x 361.35pt>
+File: Archivo_CSV_OBD_Subido_S3.png Graphic file (type png)
+<use Archivo_CSV_OBD_Subido_S3.png>
+Package pdftex.def Info: Archivo_CSV_OBD_Subido_S3.png  used on input line 341.
+
+(pdftex.def)             Requested size: 155.25153pt x 256.07509pt.
+<Directorio_Public_S3_OBD.png, id=289, 702.82574pt x 199.34476pt>
+File: Directorio_Public_S3_OBD.png Graphic file (type png)
+<use Directorio_Public_S3_OBD.png>
+Package pdftex.def Info: Directorio_Public_S3_OBD.png  used on input line 348.
+(pdftex.def)             Requested size: 344.9989pt x 165.02415pt.
+<Verificacion_Archivo_OBD_S3.png, id=291, 779.91376pt x 502.87875pt>
+File: Verificacion_Archivo_OBD_S3.png Graphic file (type png)
+<use Verificacion_Archivo_OBD_S3.png>
+Package pdftex.def Info: Verificacion_Archivo_OBD_S3.png  used on input line 35
+5.
+(pdftex.def)             Requested size: 344.99579pt x 170.71562pt.
+<Descarga_CSV_OBD_S3.png, id=294, 837.1275pt x 522.15076pt>
+File: Descarga_CSV_OBD_S3.png Graphic file (type png)
+<use Descarga_CSV_OBD_S3.png>
+Package pdftex.def Info: Descarga_CSV_OBD_S3.png  used on input line 362.
+(pdftex.def)             Requested size: 345.00002pt x 96.73181pt.
+<Ejemplo_Datos_OBD.png, id=295, 928.06725pt x 384.2355pt>
+File: Ejemplo_Datos_OBD.png Graphic file (type png)
+<use Ejemplo_Datos_OBD.png>
+Package pdftex.def Info: Ejemplo_Datos_OBD.png  used on input line 368.
+(pdftex.def)             Requested size: 344.99388pt x 93.88934pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./Seccion_OBD2.png> <./Informacion_OBD2.png>] [17 <./Lista_Dispositivos_OB
+D2.png> <./Dispositivo_OBD2_Seleccionado.png>] [18 <./Conectar_OBD-2.png> <./In
+icio_Mediciones_OBD-2.png>] [19 <./Presentacion_Almacenamiento_Lecturas_OBD.png
+> <./Datos_OBD_Guardados_CSV.png>] [20 <./Archivo_CSV_OBD_Subido_S3.png> <./Dir
+ectorio_Public_S3_OBD.png>]
+<Creacion_Nuevo_Bucket_S3.png, id=334, 1038.88126pt x 285.4665pt>
+File: Creacion_Nuevo_Bucket_S3.png Graphic file (type png)
+<use Creacion_Nuevo_Bucket_S3.png>
+Package pdftex.def Info: Creacion_Nuevo_Bucket_S3.png  used on input line 377.
+(pdftex.def)             Requested size: 344.98775pt x 91.04622pt.
+<Configuracion_Nuevo_Bucket_S3.png, id=342, 616.704pt x 2271.687pt>
+File: Configuracion_Nuevo_Bucket_S3.png Graphic file (type png)
+<use Configuracion_Nuevo_Bucket_S3.png>
+Package pdftex.def Info: Configuracion_Nuevo_Bucket_S3.png  used on input line 
+389.
+(pdftex.def)             Requested size: 345.00371pt x 554.8177pt.
+<Todos_Nuevo_Bucket_S3.png, id=343, 1037.0745pt x 348.1005pt>
+File: Todos_Nuevo_Bucket_S3.png Graphic file (type png)
+<use Todos_Nuevo_Bucket_S3.png>
+Package pdftex.def Info: Todos_Nuevo_Bucket_S3.png  used on input line 395.
+(pdftex.def)             Requested size: 344.98909pt x 162.17844pt.
+<Carga_Archivo_CSV_Nuevo_Bucket.png, id=344, 1037.67674pt x 399.29175pt>
+File: Carga_Archivo_CSV_Nuevo_Bucket.png Graphic file (type png)
+<use Carga_Archivo_CSV_Nuevo_Bucket.png>
+Package pdftex.def Info: Carga_Archivo_CSV_Nuevo_Bucket.png  used on input line
+ 401.
+(pdftex.def)             Requested size: 344.99944pt x 162.18141pt.
+<Busqueda_Archivo_CSV_Bucket.png, id=345, 610.6815pt x 389.0535pt>
+File: Busqueda_Archivo_CSV_Bucket.png Graphic file (type png)
+<use Busqueda_Archivo_CSV_Bucket.png>
+Package pdftex.def Info: Busqueda_Archivo_CSV_Bucket.png  used on input line 40
+7.
+(pdftex.def)             Requested size: 345.00774pt x 162.17844pt.
+<Seleccion_Archivo_CSV_Bucket.png, id=346, 568.524pt x 356.532pt>
+File: Seleccion_Archivo_CSV_Bucket.png Graphic file (type png)
+<use Seleccion_Archivo_CSV_Bucket.png>
+Package pdftex.def Info: Seleccion_Archivo_CSV_Bucket.png  used on input line 4
+13.
+(pdftex.def)             Requested size: 345.01208pt x 142.26753pt.
+<Archivo_Destino_Bucket_S3.png, id=347, 614.295pt x 738.3585pt>
+File: Archivo_Destino_Bucket_S3.png Graphic file (type png)
+<use Archivo_Destino_Bucket_S3.png>
+Package pdftex.def Info: Archivo_Destino_Bucket_S3.png  used on input line 419.
+
+(pdftex.def)             Requested size: 345.0058pt x 202.00706pt.
+<Carga_Completa_Archivo_Bucket.png, id=348, 1055.74425pt x 460.119pt>
+File: Carga_Completa_Archivo_Bucket.png Graphic file (type png)
+<use Carga_Completa_Archivo_Bucket.png>
+Package pdftex.def Info: Carga_Completa_Archivo_Bucket.png  used on input line 
+425.
+(pdftex.def)             Requested size: 344.9976pt x 142.2633pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--430
+
+ []
+
+[21 <./Verificacion_Archivo_OBD_S3.png> <./Descarga_CSV_OBD_S3.png> <./Ejemplo_
+Datos_OBD.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./Creacion_Nuevo_Bucket_S3.png>]
+
+LaTeX Warning: Text page 23 contains only floats.
+
+
+Overfull \vbox (4.8177pt too high) has occurred while \output is active []
+
+
+[23 <./Configuracion_Nuevo_Bucket_S3.png>]
+
+LaTeX Warning: Text page 24 contains only floats.
+
+
+Overfull \vbox (0.53828pt too high) has occurred while \output is active []
+
+
+[24 <./Todos_Nuevo_Bucket_S3.png> <./Carga_Archivo_CSV_Nuevo_Bucket.png> <./Bus
+queda_Archivo_CSV_Bucket.png>]
+
+LaTeX Warning: Text page 25 contains only floats.
+
+
+Overfull \vbox (0.5379pt too high) has occurred while \output is active []
+
+
+[25 <./Seleccion_Archivo_CSV_Bucket.png> <./Archivo_Destino_Bucket_S3.png> <./C
+arga_Completa_Archivo_Bucket.png>]
+Overfull \hbox (15.918pt too wide) in paragraph at lines 431--432
+[][][]$\T1/cmtt/m/n/10 https : / / github . com / laboratorioAI / PIS _ 20 _ 02
+ _ AGENTES _ IA / tree / main /
+ []
+
+<Importaciones_S3_Bucket.png, id=392, 780.516pt x 243.91125pt>
+File: Importaciones_S3_Bucket.png Graphic file (type png)
+<use Importaciones_S3_Bucket.png>
+Package pdftex.def Info: Importaciones_S3_Bucket.png  used on input line 436.
+(pdftex.def)             Requested size: 345.00018pt x 99.5837pt.
+<Importaciones_S3_Bucket_2.png, id=394, 1069.596pt x 158.994pt>
+File: Importaciones_S3_Bucket_2.png Graphic file (type png)
+<use Importaciones_S3_Bucket_2.png>
+Package pdftex.def Info: Importaciones_S3_Bucket_2.png  used on input line 443.
+
+(pdftex.def)             Requested size: 345.00327pt x 99.58449pt.
+<URL_S3_Fuente.png, id=396, 610.07925pt x 243.91125pt>
+File: URL_S3_Fuente.png Graphic file (type png)
+<use URL_S3_Fuente.png>
+Package pdftex.def Info: URL_S3_Fuente.png  used on input line 450.
+(pdftex.def)             Requested size: 345.00261pt x 99.5837pt.
+<Explorador_Importaciones_S3.png, id=399, 1047.915pt x 478.78876pt>
+File: Explorador_Importaciones_S3.png Graphic file (type png)
+<use Explorador_Importaciones_S3.png>
+Package pdftex.def Info: Explorador_Importaciones_S3.png  used on input line 45
+7.
+(pdftex.def)             Requested size: 344.99753pt x 142.26425pt.
+<Detalles_Importaciones_S3.png, id=401, 461.3235pt x 483.0045pt>
+File: Detalles_Importaciones_S3.png Graphic file (type png)
+<use Detalles_Importaciones_S3.png>
+Package pdftex.def Info: Detalles_Importaciones_S3.png  used on input line 464.
+
+(pdftex.def)             Requested size: 345.00629pt x 261.7619pt.
+<Detalles_Tabla_Bucket.png, id=403, 741.972pt x 439.6425pt>
+File: Detalles_Tabla_Bucket.png Graphic file (type png)
+<use Detalles_Tabla_Bucket.png>
+Package pdftex.def Info: Detalles_Tabla_Bucket.png  used on input line 471.
+(pdftex.def)             Requested size: 344.99077pt x 142.25822pt.
+<Configuracion_Opcional_Tabla_Bucket.png, id=405, 460.119pt x 892.5345pt>
+File: Configuracion_Opcional_Tabla_Bucket.png Graphic file (type png)
+<use Configuracion_Opcional_Tabla_Bucket.png>
+Package pdftex.def Info: Configuracion_Opcional_Tabla_Bucket.png  used on input
+ line 478.
+(pdftex.def)             Requested size: 345.01117pt x 341.42738pt.
+<Resumen_Detalle_Configuracion_Bucket.png, id=407, 462.528pt x 775.698pt>
+File: Resumen_Detalle_Configuracion_Bucket.png Graphic file (type png)
+<use Resumen_Detalle_Configuracion_Bucket.png>
+Package pdftex.def Info: Resumen_Detalle_Configuracion_Bucket.png  used on inpu
+t line 485.
+(pdftex.def)             Requested size: 345.0178pt x 537.7533pt.
+<Iniciando_Importacion_Bucket_Tabla.png, id=409, 900.966pt x 242.70676pt>
+File: Iniciando_Importacion_Bucket_Tabla.png Graphic file (type png)
+<use Iniciando_Importacion_Bucket_Tabla.png>
+Package pdftex.def Info: Iniciando_Importacion_Bucket_Tabla.png  used on input 
+line 492.
+(pdftex.def)             Requested size: 344.99643pt x 119.50136pt.
+<Proceso_Importacion_Finalizado_Bucket_Tabla.png, id=411, 881.694pt x 243.91125
+pt>
+File: Proceso_Importacion_Finalizado_Bucket_Tabla.png Graphic file (type png)
+<use Proceso_Importacion_Finalizado_Bucket_Tabla.png>
+Package pdftex.def Info: Proceso_Importacion_Finalizado_Bucket_Tabla.png  used 
+on input line 499.
+(pdftex.def)             Requested size: 344.98938pt x 119.50266pt.
+<Tabla_Creada_Bucket_S3.png, id=414, 856.3995pt x 280.6485pt>
+File: Tabla_Creada_Bucket_S3.png Graphic file (type png)
+<use Tabla_Creada_Bucket_S3.png>
+Package pdftex.def Info: Tabla_Creada_Bucket_S3.png  used on input line 506.
+(pdftex.def)             Requested size: 344.99738pt x 119.50313pt.
+<Contenido_Tabla_Creada_Bucket_S3.png, id=415, 865.43324pt x 487.22025pt>
+File: Contenido_Tabla_Creada_Bucket_S3.png Graphic file (type png)
+<use Contenido_Tabla_Creada_Bucket_S3.png>
+Package pdftex.def Info: Contenido_Tabla_Creada_Bucket_S3.png  used on input li
+ne 512.
+(pdftex.def)             Requested size: 345.00508pt x 142.25671pt.
+<Total_Importaciones_Bucket_S3.png, id=418, 853.38824pt x 314.97675pt>
+File: Total_Importaciones_Bucket_S3.png Graphic file (type png)
+<use Total_Importaciones_Bucket_S3.png>
+Package pdftex.def Info: Total_Importaciones_Bucket_S3.png  used on input line 
+519.
+(pdftex.def)             Requested size: 344.9953pt x 142.26689pt.
+<Total_Tablas_Creadas_Bucket_S3.png, id=419, 863.02425pt x 399.894pt>
+File: Total_Tablas_Creadas_Bucket_S3.png Graphic file (type png)
+<use Total_Tablas_Creadas_Bucket_S3.png>
+Package pdftex.def Info: Total_Tablas_Creadas_Bucket_S3.png  used on input line
+ 525.
+(pdftex.def)             Requested size: 345.00606pt x 142.2593pt.
+[26 <./Importaciones_S3_Bucket.png> <./Importaciones_S3_Bucket_2.png> <./URL_S3
+_Fuente.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./Explorador_Importaciones_S3.png> <./Detalles_Importaciones_S3.png>]
+[28 <./Detalles_Tabla_Bucket.png> <./Configuracion_Opcional_Tabla_Bucket.png>]
+[29 <./Resumen_Detalle_Configuracion_Bucket.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./Iniciando_Importacion_Bucket_Tabla.png> <./Proceso_Importacion_Finalizad
+o_Bucket_Tabla.png> <./Tabla_Creada_Bucket_S3.png>] [31 <./Contenido_Tabla_Crea
+da_Bucket_S3.png> <./Total_Importaciones_Bucket_S3.png> <./Total_Tablas_Creadas
+_Bucket_S3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 531--533
+
+ []
+
+<Registro_Nuevo_Usuario_AccuWeather.png, id=476, 488.42474pt x 541.42274pt>
+File: Registro_Nuevo_Usuario_AccuWeather.png Graphic file (type png)
+<use Registro_Nuevo_Usuario_AccuWeather.png>
+Package pdftex.def Info: Registro_Nuevo_Usuario_AccuWeather.png  used on input 
+line 542.
+(pdftex.def)             Requested size: 345.01022pt x 298.75827pt.
+<Confirmacion_Registro_Nuevo_Usuario_AccuWeather.png, id=478, 693.792pt x 526.3
+665pt>
+File: Confirmacion_Registro_Nuevo_Usuario_AccuWeather.png Graphic file (type pn
+g)
+<use Confirmacion_Registro_Nuevo_Usuario_AccuWeather.png>
+Package pdftex.def Info: Confirmacion_Registro_Nuevo_Usuario_AccuWeather.png  u
+sed on input line 549.
+(pdftex.def)             Requested size: 345.00018pt x 312.98715pt.
+<Nueva_App_AccuWeather.png, id=480, 869.04675pt x 293.29575pt>
+File: Nueva_App_AccuWeather.png Graphic file (type png)
+<use Nueva_App_AccuWeather.png>
+Package pdftex.def Info: Nueva_App_AccuWeather.png  used on input line 556.
+(pdftex.def)             Requested size: 345.00021pt x 119.50017pt.
+<Configuracion_Nueva_APP_AccuWeather.png, id=482, 873.2625pt x 925.056pt>
+File: Configuracion_Nueva_APP_AccuWeather.png Graphic file (type png)
+<use Configuracion_Nueva_APP_AccuWeather.png>
+Package pdftex.def Info: Configuracion_Nueva_APP_AccuWeather.png  used on input
+ line 563.
+(pdftex.def)             Requested size: 344.99486pt x 332.89287pt.
+<Nueva_APP_AccuWeather_Exito.png, id=484, 872.66025pt x 282.45525pt>
+File: Nueva_APP_AccuWeather_Exito.png Graphic file (type png)
+<use Nueva_APP_AccuWeather_Exito.png>
+Package pdftex.def Info: Nueva_APP_AccuWeather_Exito.png  used on input line 57
+0.
+(pdftex.def)             Requested size: 344.99663pt x 113.80759pt.
+<Api_Key_AccuWeather.png, id=486, 864.831pt x 264.99pt>
+File: Api_Key_AccuWeather.png Graphic file (type png)
+<use Api_Key_AccuWeather.png>
+Package pdftex.def Info: Api_Key_AccuWeather.png  used on input line 577.
+(pdftex.def)             Requested size: 345.00253pt x 119.50317pt.
+<Locations_API_AccuWeather.png, id=488, 872.66025pt x 287.27325pt>
+File: Locations_API_AccuWeather.png Graphic file (type png)
+<use Locations_API_AccuWeather.png>
+Package pdftex.def Info: Locations_API_AccuWeather.png  used on input line 584.
+
+(pdftex.def)             Requested size: 344.99663pt x 119.5011pt.
+<AccuWeather_Geoposition_Option.png, id=490, 867.24pt x 124.66576pt>
+File: AccuWeather_Geoposition_Option.png Graphic file (type png)
+<use AccuWeather_Geoposition_Option.png>
+Package pdftex.def Info: AccuWeather_Geoposition_Option.png  used on input line
+ 591.
+(pdftex.def)             Requested size: 344.99754pt x 119.50275pt.
+<AccuWeather_Geoposition_Configuracion.png, id=492, 770.27776pt x 510.10574pt>
+File: AccuWeather_Geoposition_Configuracion.png Graphic file (type png)
+<use AccuWeather_Geoposition_Configuracion.png>
+Package pdftex.def Info: AccuWeather_Geoposition_Configuracion.png  used on inp
+ut line 598.
+(pdftex.def)             Requested size: 345.01155pt x 85.35469pt.
+<Resultados_Query_Geo_AccuWeather.png, id=494, 388.45125pt x 501.072pt>
+File: Resultados_Query_Geo_AccuWeather.png Graphic file (type png)
+<use Resultados_Query_Geo_AccuWeather.png>
+Package pdftex.def Info: Resultados_Query_Geo_AccuWeather.png  used on input li
+ne 605.
+(pdftex.def)             Requested size: 345.00923pt x 295.91281pt.
+<Current_Conditions_API_AccuWeather.png, id=496, 872.66025pt x 287.27325pt>
+File: Current_Conditions_API_AccuWeather.png Graphic file (type png)
+<use Current_Conditions_API_AccuWeather.png>
+Package pdftex.def Info: Current_Conditions_API_AccuWeather.png  used on input 
+line 612.
+(pdftex.def)             Requested size: 344.99663pt x 85.35855pt.
+<AccuWeather_Current_Conditions_Configuracion.png, id=498, 772.0845pt x 415.552
+5pt>
+File: AccuWeather_Current_Conditions_Configuracion.png Graphic file (type png)
+<use AccuWeather_Current_Conditions_Configuracion.png>
+Package pdftex.def Info: AccuWeather_Current_Conditions_Configuracion.png  used
+ on input line 619.
+(pdftex.def)             Requested size: 345.00792pt x 85.35367pt.
+<Resultados_Query_Current_AccuWeather.png, id=500, 275.22826pt x 506.49225pt>
+File: Resultados_Query_Current_AccuWeather.png Graphic file (type png)
+<use Resultados_Query_Current_AccuWeather.png>
+Package pdftex.def Info: Resultados_Query_Current_AccuWeather.png  used on inpu
+t line 626.
+(pdftex.def)             Requested size: 224.25235pt x 210.54587pt.
+[32 <./Registro_Nuevo_Usuario_AccuWeather.png>] [33 <./Confirmacion_Registro_Nu
+evo_Usuario_AccuWeather.png> <./Nueva_App_AccuWeather.png>] [34 <./Configuracio
+n_Nueva_APP_AccuWeather.png> <./Nueva_APP_AccuWeather_Exito.png>] [35 <./Api_Ke
+y_AccuWeather.png> <./Locations_API_AccuWeather.png> <./AccuWeather_Geoposition
+_Option.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36 <./AccuWeather_Geoposition_Configuracion.png> <./Resultados_Query_Geo_AccuW
+eather.png>] [37 <./Current_Conditions_API_AccuWeather.png> <./AccuWeather_Curr
+ent_Conditions_Configuracion.png> <./Resultados_Query_Current_AccuWeather.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--634
+
+ []
+
+(Manual_Servicios.bbl [38]) [39] (Manual_Servicios.aux
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+)
+Package rerunfilecheck Info: File `Manual_Servicios.out' has not changed.
+(rerunfilecheck)             Checksum: B2F8850FD676EAAF2B8D8713A623B023;3626.
+ ) 
+Here is how much of TeX's memory you used:
+ 13882 strings out of 476331
+ 236690 string characters out of 5782537
+ 1865660 words of memory out of 5000000
+ 33963 multiletter control sequences out of 15000+600000
+ 520636 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,7n,77p,1028b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti1000.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Christian Arroyo\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Christian Arroy
+o\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\User
+s\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
+1440.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecrm1200.pk> <C:\Users\Christian Arroyo\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Manual_Servicios.pdf (40 pages, 7713929 bytes).
+PDF statistics:
+ 926 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
+ 510 words of extra memory for PDF output out of 10000 (max. 10000000)
+
