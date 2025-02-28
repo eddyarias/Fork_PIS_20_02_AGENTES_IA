@@ -79,9 +79,9 @@ if __name__ == '__main__':
     df_speed = pd.read_csv('design_speed.csv')
     
     # Parámetros de prueba (estas coordenadas y hora pueden ajustarse según los datos reales)
-    test_latitude = -0.109420
-    test_longitude = -78.458636
-    test_time = "0"  # Se espera que en el CSV de accidentes por hora exista un registro con esta hora
+    test_latitude = -0.083501
+    test_longitude = -78.417742
+    test_time = "3"  # Se espera que en el CSV de accidentes por hora exista un registro con esta hora
 
     # Llamada a las funciones de prueba
     accidents_time_result = get_number_accidents_time(df_acc_time, test_time, test_latitude, test_longitude)
