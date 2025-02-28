@@ -1,6 +1,11 @@
+
+
 import ast
 import pandas as pd
 from haversine import haversine
+
+
+
 
 # Constantes necesarias
 ROUND_DISTANCE_FOR_ACCIDENT = 0.2
