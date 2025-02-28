@@ -4,7 +4,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Configura la conexión a PostgreSQL (ajusta el usuario, contraseña, host, puerto y nombre de base de datos)
-engine = create_engine('postgresql://postgres:P%40ssw0rd@localhost:5432/accidents_uio')
+engine = create_engine('postgresql://postgres:P4ssw0rd123456789@database-2.cdc6eqac283t.eu-north-1.rds.amazonaws.com:5432/accidents_uio')
 
 # Cargar route2_accident_time.csv
 df_acc_time = pd.read_csv("route2_accident_time.csv")
