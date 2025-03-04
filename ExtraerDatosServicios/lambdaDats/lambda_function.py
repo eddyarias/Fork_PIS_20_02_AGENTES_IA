@@ -3,10 +3,11 @@ import pg8000
 import os
 
 # Variables de entorno para la conexión a la base de datos
-DB_HOST = os.environ['database-2.cdc6eqac283t.eu-north-1.rds.amazonaws.com']
-DB_NAME = os.environ['accidents_uio']
-DB_USER = os.environ['postgres']
-DB_PASSWORD = os.environ['P4ssw0rd123456789']
+DB_HOST = 'database-1.conw8u8y6q2u.us-east-1.rds.amazonaws.com'
+DB_NAME = 'accidents_uio'
+DB_USER = 'postgres'
+DB_PASSWORD = 'P4ssw0rd123456789'
+
 
 def lambda_handler(event, context):
     # Obtener los parámetros de entrada (latitud, longitud, time como entero)
