@@ -1,0 +1,81 @@
+plantuml
+CopiarEditar
+@startuml
+entity "Route2AccidentTime" as R {
+  * point : VARCHAR
+  * coordinates : VARCHAR
+  * hour : INTEGER
+  * count : INTEGER
+  --
+}
+entity "AccidentsQuito" as A {
+  * id : INTEGER
+  * anio : INTEGER
+  * siniestros : VARCHAR
+  * lesionados : INTEGER
+  * fallecidos : INTEGER
+  * ente_de_control : VARCHAR
+  * latitud_y : DOUBLE PRECISION
+  * longitud_x : DOUBLE PRECISION
+  * dpa_1 : INTEGER
+  * provincia : VARCHAR
+  * dpa_2 : INTEGER
+  * canton : VARCHAR
+  * dpa_3 : INTEGER
+  * parroquia : VARCHAR
+  * direccion : VARCHAR
+  * zona_planificacion : VARCHAR
+  * zona : VARCHAR
+  * id_de_la_via : VARCHAR
+  * nombre_de_la_via : VARCHAR
+  * ubicacion_de_la_via : VARCHAR
+  * jerarquia_de_la_via : VARCHAR
+  * fecha : DATE
+  * hora : TIME
+  * periodo_1 : VARCHAR
+  * periodo_2 : VARCHAR
+  * dia_1 : VARCHAR
+  * dia_2 : VARCHAR
+  * mes_1 : VARCHAR
+  * mes_2 : VARCHAR
+  * feriado : VARCHAR
+  * codigo_causa : VARCHAR
+  * causa_probable : VARCHAR
+  * tipo_de_siniestro : VARCHAR
+  * tipo_de_vehiculo_1 : VARCHAR
+  * servicio_1 : VARCHAR
+  * automovil : INTEGER
+  * bicicleta : INTEGER
+  * bus : INTEGER
+  * camion : INTEGER
+  * camioneta : INTEGER
+  * emergencias : INTEGER
+  * especial : INTEGER
+  * furgoneta : INTEGER
+  * motocicleta : INTEGER
+  * no_identificado : INTEGER
+  * scooter_electrico : INTEGER
+  * tricimoto : INTEGER
+  * vehiculo_deportivo_utilitario : INTEGER
+  * suma_de_vehiculos : INTEGER
+  * tipo_id_1 : VARCHAR
+  * edad_1 : INTEGER
+  * sexo_1 : VARCHAR
+  * condicion_1 : VARCHAR
+  * participante_1 : VARCHAR
+  * casco_1 : VARCHAR
+  * cinturon_1 : VARCHAR
+  --
+}
+entity "DesignSpeed" as D {
+  * id_point : VARCHAR
+  * id_route : VARCHAR
+  * id_road : VARCHAR
+  * id_segment : VARCHAR
+  * latitude : DOUBLE PRECISION
+  * longitude : DOUBLE PRECISION
+  * speed : INTEGER
+  --
+}
+@enduml
+
