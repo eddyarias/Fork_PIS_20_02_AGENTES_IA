@@ -35,44 +35,21 @@ def lambda_handler(event, context):
                 body = json.loads(event["body"])
             else:
                 response = {'Error': 'El cuerpo de la solicitud (body) está vacío.'}
-                return {
-                    "statusCode": 400,
-                    "headers": {
-                        "Access-Control-Allow-Origin": "*"
-                    },
-                    "body": json.dumps(response)
-                }
+                return response
         else:
             body = event
 
         if "Input" not in body:
             response = {'Error': 'No se encontró la clave "Input" en el evento.'}
-            return {
-                "statusCode": 400,
-                "headers": {
-                    "Access-Control-Allow-Origin": "*"
-                },
-                "body": json.dumps(response)
-            }
+            return response
         
         input_data = body["Input"]
 
         prediction = model.predict(input_data)
         res = int(prediction[0])
         response = {'Output': res}
-        return {
-            "statusCode": 200,
-            "headers": {
-                "Access-Control-Allow-Origin": "*"
-            },
-            "body": json.dumps(response)
-        }
+        return response
+        
     except Exception as e:
         response = {'Error en try': str(e)}
-        return {
-            "statusCode": 500,
-            "headers": {
-                "Access-Control-Allow-Origin": "*"
-            },
-            "body": json.dumps(response)
-        }
+        return response
