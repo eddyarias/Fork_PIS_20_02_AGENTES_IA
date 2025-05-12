@@ -156,8 +156,12 @@
 
 ### Construir la Imagen Docker
 
-1. Verifica que los archivos `Dockerfile` y `inference.py` estén en la misma carpeta.
-2. Ejecuta el siguiente comando:
+1. Ubicarse en el directorio:
+   ```bash
+    cd    Despliegue_lambda_apigateway_ecr/Manual Despliegue modelo en ECR, S3, Lambda y api gateway
+    ```
+3. Verifica que los archivos `Dockerfile` y `inference.py` estén en la misma carpeta.
+4. Ejecuta el siguiente comando:
 
     ```bash
     docker build -t mlp-model .
