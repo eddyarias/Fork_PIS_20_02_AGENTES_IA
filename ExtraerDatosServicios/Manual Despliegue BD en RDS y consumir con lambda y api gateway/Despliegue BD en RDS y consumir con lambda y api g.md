@@ -1,7 +1,6 @@
 # Despliegue de Base de Datos en RDS y Consumo con Lambda y API Gateway
 
 ## Índice
-[Creación de la Base de Datos en Amazon RDS](../accidents_quito.csv)
 
 1. [Creación de la Base de Datos en Amazon RDS](#creación-de-la-base-de-datos-en-amazon-rds)
 2. [Conexión de pgAdmin a la Instancia de RDS](#conexión-de-pgadmin-a-la-instancia-de-rds)
