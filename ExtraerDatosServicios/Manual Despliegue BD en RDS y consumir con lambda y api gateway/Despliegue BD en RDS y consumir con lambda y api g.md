@@ -96,16 +96,14 @@ Utiliza la interfaz gráfica de **pgAdmin** para ejecutar los scripts SQL que cr
 ## Modelo Relacional en PlantUML
 
 A continuación, se presenta el modelo relacional generado en PlantUML:  
-![diagrama.png](img_readme/diagrama.png.png)
+![diagrama.png](img_readme/diagrama.png)
 
 ---
 
 ## Ejecución del Script para Crear Tablas y Funciones
 
 1. Abre la conexión a tu base de datos en **pgAdmin**.
-2. Ejecuta el script `ExtraerDatosServicios/script_crear_tablas_bd.sql` disponible en el repositorio:  
-    [https://github.com/eddyarias/Fork_PIS_20_02_AGENTES_IA](https://github.com/eddyarias/Fork_PIS_20_02_AGENTES_IA)
-
+2. Ejecuta el script `ExtraerDatosServicios/script_crear_tablas_bd.sql` disponible en el presente repositorio
 ---
 
 ## Script en Python para Cargar los CSV en las Tablas
@@ -116,10 +114,9 @@ A continuación, se presenta el modelo relacional generado en PlantUML:
      pip install pandas==1.3.3 sqlalchemy==1.4.23 psycopg2==2.9.1 haversine==2.5.1
      ```
 
-2. Clona el repositorio y navega al directorio correspondiente:
+2. Navega al directorio correspondiente:
 
      ```bash
-     git clone https://github.com/eddyarias/Fork_PIS_20_02_AGENTES_IA
      cd Fork_PIS_20_02_AGENTES_IA/ExtraerDatosServicios
      ```
 
