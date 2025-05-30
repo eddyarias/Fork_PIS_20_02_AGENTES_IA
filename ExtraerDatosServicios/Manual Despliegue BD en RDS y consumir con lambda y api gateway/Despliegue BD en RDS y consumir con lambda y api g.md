@@ -38,18 +38,21 @@
 6. En la configuración de la instancia, selecciona el tipo **db.t4g.micro**.  
     ![image.png](img_readme/image%205.png)
 
-7. Configura la opción para que **no se conecte a un recurso EC2**.  
+   Almacenamiento:
+   ![image](https://github.com/user-attachments/assets/b8c031b9-8f37-4404-ae60-d5695d2a43d1)
+
+8. Configura la opción para que **no se conecte a un recurso EC2**.  
     ![image.png](img_readme/image%206.png)
 
-8. Configura la VPC y marca la opción para hacerla pública. Esto permitirá conectarte para crear tablas y cargar datos.  
+9. Configura la VPC y marca la opción para hacerla pública. Esto permitirá conectarte para crear tablas y cargar datos.  
     ![image.png](img_readme/image%207.png)  
     **Nota:** Dentro del grupo de seguridad de la VPC, crea una regla de entrada con el tipo **PostgreSQL**, protocolo **TCP**, puerto **5432**, y origen **cualquier dirección IP**. Esto será necesario para conectarte localmente y posteriormente con la función Lambda.  
     ![image.png](img_readme/image%208.png)
 
-9. En el apartado de **"Configuración adicional"**, especifica el nombre de la base de datos.  
+10. En el apartado de **"Configuración adicional"**, especifica el nombre de la base de datos.  
     ![image.png](img_readme/image%209.png)
 
-10. Haz clic en **"Crear base de datos"** para finalizar.
+11. Haz clic en **"Crear base de datos"** para finalizar.
 
 ---
 
