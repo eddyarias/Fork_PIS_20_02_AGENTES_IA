@@ -116,7 +116,7 @@ A continuación, se presenta el modelo relacional generado en PlantUML:
 
 ## Script en Python para Cargar los CSV en las Tablas
 
-1. Instala las dependencias necesarias:
+1. Instala las dependencias necesarias (Recomendación: ambiente con python 3.8):
 
      ```bash
      pip install pandas==1.3.3 sqlalchemy==1.4.23 psycopg2==2.9.1 haversine==2.5.1
