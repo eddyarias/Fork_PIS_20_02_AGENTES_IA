@@ -32,7 +32,7 @@
 4. Asigna un nombre como identificador para la base de datos (RDS). Nota: Este no es el nombre de la base de datos que se configurará más adelante.  
     ![image.png](img_readme/image%203.png)
 
-5. Selecciona la opción **Autoadministrado** y crea una contraseña para el acceso.  
+5. Selecciona la opción **Autoadministrado** y crea una contraseña "Pis2220*polidriving" para el acceso.  
     ![image.png](img_readme/image%204.png)
 
 6. En la configuración de la instancia, selecciona el tipo **db.t4g.micro**.  
