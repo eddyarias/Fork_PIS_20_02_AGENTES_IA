@@ -17,6 +17,9 @@
 
 ## Creación de la Base de Datos en Amazon RDS
 
+![image](https://github.com/user-attachments/assets/2e344499-a8e9-41a4-a13a-94a6ec301015)
+
+
 1. Dirígete a la consola de Amazon RDS y haz clic en **"Base de datos"** en el panel izquierdo.  
     ![image.png](img_readme/image.png)
 
