@@ -45,14 +45,16 @@
     ![image.png](img_readme/image%206.png)
 
 9. Configura la VPC y marca la opción para hacerla pública. Esto permitirá conectarte para crear tablas y cargar datos.  
-    ![image.png](img_readme/image%207.png)  
+    ![image](https://github.com/user-attachments/assets/7debdb41-d37f-4ce2-b4e8-0b208ea05ea9)
+    ![image.png](img_readme/image%207.png)
+   
     **Nota:** Dentro del grupo de seguridad de la VPC, crea una regla de entrada con el tipo **PostgreSQL**, protocolo **TCP**, puerto **5432**, y origen **cualquier dirección IP**. Esto será necesario para conectarte localmente y posteriormente con la función Lambda.  
     ![image.png](img_readme/image%208.png)
 
-10. En el apartado de **"Configuración adicional"**, especifica el nombre de la base de datos.  
+11. En el apartado de **"Configuración adicional"**, especifica el nombre de la base de datos.  
     ![image.png](img_readme/image%209.png)
 
-11. Haz clic en **"Crear base de datos"** para finalizar.
+12. Haz clic en **"Crear base de datos"** para finalizar.
 
 ---
 
